@@ -1,0 +1,67 @@
+manufacturer,vaccine_group,vaccine,name.age,brandname_tradename,age
+GlaxoSmithKline,DTaP/Tdap/Td,DTaP/¤,infanrix.ped,infanrix,ped
+GlaxoSmithKline,Hep A,Hepatitis A Adult¤,havrix.adult,havrix,adult
+Merck,Hep A,Hepatitis A Adult¤,vaqta.adult,vaqta,adult
+GlaxoSmithKline,Hep A,Hepatitis A Pediatric¤,havrix.ped,havrix,ped
+Merck,Hep A,Hepatitis A Pediatric¤,vaqta.ped,vaqta,ped
+GlaxoSmithKline,Hep B,"Hepatitis
+B-Adult•",engerixb.adult,engerixb,adult
+Merck,Hep B,"Hepatitis
+B-Adult•",recombivaxhb.adult,recombivaxhb,adult
+GlaxoSmithKline,Hep B,Hepatitis B•¤ Preservative Free Pediatric/Adolescent,engerixb.ped,engerixb,ped
+Merck,Hep B,"Hepatitis
+B• ¤ Preservative Free Pediatric/Adolescent",recombivaxhb.ped,recombivaxhb,ped
+Aventis Pateur,HiB,Hib• ¤,acthib.ped,acthib,ped
+Merck,HiB,Hib• ¤,pedvaxhib.ped,pedvaxhib,ped
+Merck,MMR,MMR• ¤,mmrii.ped,mmrii,ped
+Aventis Pasteur,Polio,e-IPV• ¤,ipol.ped,ipol,ped
+Merck,Varicella,Varicella• ¤,varivax.ped,varivax,ped
+"Aventis
+Pasteur",DTaP/Tdap/Td,DTaP/¤,daptacel.ped,daptacel,ped
+GlaxoSmithKline,DTaP-Hep B-IPV,DTaP-Hep B-IPV*,pediarix.ped,pediarix,ped
+GlaxoSmithKline,Hep A/B,Hepatitis A-Hepatitis B 18 only¤ •,twinrix.adult,twinrix,adult
+sanofi pasteur,DTaP/Tdap/Td,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/",adacel.ped,adacel,ped
+GlaxoSmithKline,DTaP/Tdap/Td,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/",boostrix.ped,boostrix,ped
+Merck,MMRV,"Measles, Mumps, Rubella and Varicella (MMR-V) #",proquad.ped,proquad,ped
+Merck,Rotavirus,"Rotavirus, Live, Oral, Pentavalent •",rotateq.ped,rotateq,ped
+Sanofi Pasteur,DTaP-IPV,DTaP-IP-HI [4],pentacel.ped,pentacel,ped
+GlaxoSmithKline,DTaP-IPV,DTaP-IPV [2],kinrix.ped,kinrix,ped
+GlaxoSmithKline,Rotavirus,"Rotavirus, Live, Oral, Oral [5]",rotarix.ped,rotarix,ped
+Sanofi Pasteur,DTaP/Tdap/Td,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]",adacel.adult,adacel,adult
+GlaxoSmithKline,DTaP/Tdap/Td,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]",boostrix.adult,boostrix,adult
+GlaxoSmithKline,HiB,Hib [5],hiberix.ped,hiberix,ped
+Merck,MMR,"Measles, Mumps and Rubella-Adult [1]",mmrii.adult,mmrii,adult
+Merck,Varicella,Varicella-Adult [5],varivax.adult,varivax,adult
+Novartis,Meningococcal,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]",menveo.ped,menveo,ped
+Wyeth,Pneumococcal,"Pneumococcal
+13-valent [5] (Pediatric)",prevnar13.ped,prevnar13,ped
+Novartis,Meningococcal,Meningococcal Conjugate [5],menveo.adult,menveo,adult
+Sanofi,DTaP/Tdap/Td,Tetanus and Diphtheria Toxoids,tenivac.adult,tenivac,adult
+Sanofi Pasteur,DTaP/Tdap/Td,Tetanus & Diphtheria Toxoids [3],tenivac.ped,tenivac,ped
+Merck,Pneumococcal,Pneumococcal Polysaccharide (23 Valent),pneumovax23.adult,pneumovax23,adult
+Merck,Pneumococcal,Pneumococcal Polysaccharide (23 Valent),pneumovax23.ped,pneumovax23,ped
+Merck,HPV,HPV-Human Papillomavirus 9 Valent,gardasil9.adult,gardasil9,adult
+Merck,HPV,HPV – Human Papillomavirus 9-valent [5],gardasil9.ped,gardasil9,ped
+Novartis,Meningococcal,MENB – Meningococcal Group B [5],bexsero.adult,bexsero,adult
+Pfizer,Meningococcal,MENB – Meningococcal Group B [5],trumenba.adult,trumenba,adult
+Novartis,Meningococcal,MENB – Meningococcal Group B [5],bexsero.ped,bexsero,ped
+Pfizer,Meningococcal,MENB – Meningococcal Group B [5],trumenba.ped,trumenba,ped
+Sanofi Pasteur,DTaP-IPV,DTaP-IPV [2],quadracel.ped,quadracel,ped
+Dynavax,Hep B,Hepatitis B Adult [5],heplisavb.adult,heplisavb,adult
+GlaxoSmithKline,Zoster (Shingles),"Zoster Vaccine Recombinant, Adjuvanted",shingrix.adult,shingrix,adult
+Grifols,DTaP/Tdap/Td,Tetanus and Diphtheria Toxoids [3],tdvax.adult,tdvax,adult
+Grifols,DTaP/Tdap/Td,Tetanus and Diphtheria Toxoids [3],tdvax.ped,tdvax,ped
+Merck,DTaP-IPV-HIB-HEPB,DTaP-IPV-HIB-HEPB [6],vaxelis.ped,vaxelis,ped
+Sanofi Pasteur,Meningococcal,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]",menquadfi.ped,menquadfi,ped
+Sanofi Pasteur,Dengue,"Dengue Tetravalent Vaccine, Live [7]",dengvaxia.ped,dengvaxia,ped
+Sanofi,Meningococcal,"Meningococcal Conjugate (Groups A, C, and Y) [5]",menquadfi.adult,menquadfi,adult
+GlaxoSmithKline,MMR,"Measles, Mumps and Rubella (MMR) [1]",priorix.adult,priorix,adult
+GlaxoSmithKline,MMR,"Measles, Mumps and Rubella (MMR) [1]",priorix.ped,priorix,ped
+Merck,Pneumococcal,"Pneumococcal
+15-valent [5]",vaxneuvance.adult,vaxneuvance,adult
+Pfizer,Pneumococcal,"Pneumococcal
+20-valent [5]",prevnar20.adult,prevnar20,adult
+Merck,Pneumococcal,"Pneumococcal
+15-valent [5]",vaxneuvance.ped,vaxneuvance,ped
+Pfizer,Pneumococcal,"Pneumococcal
+20-valent [5]",prevnar20.ped,prevnar20,ped

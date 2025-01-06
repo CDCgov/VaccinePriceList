@@ -1,0 +1,58 @@
+vaccine_group,name.age,full.legend.label,table.label,legend.label
+Dengue,dengvaxia.ped,Dengue,,Dengue
+DTaP/Tdap/Td,adacel.ped,Adacel®,,Adacel<sup>&reg;</sup>
+DTaP/Tdap/Td,boostrix.ped,Boostrix®,,Boostrix<sup>&reg;</sup>
+DTaP/Tdap/Td,daptacel.ped,Daptacel®,,Daptacel<sup>&reg;</sup>
+DTaP/Tdap/Td,infanrix.ped,Infanrix®,,Infanrix<sup>&reg;</sup>
+DTaP/Tdap/Td,tdvax.ped,TDVAXTM,,TDVAX<sup>&trade;</sup>
+DTaP/Tdap/Td,tenivac.ped,Tenivac®,,Tenivac<sup>&reg;</sup>
+DTaP-Hep B-IPV,pediarix.ped,Pediarix®,,Pediarix<sup>&reg;</sup>
+DTaP-IPV,kinrix.ped,Kinrix®,,Kinrix<sup>&reg;</sup>
+DTaP-IPV,pentacel.ped,Pentacel®,,Pentacel<sup>&reg;</sup>
+DTaP-IPV,quadracel.ped,QuadracelTM,,Quadracel<sup>&trade;</sup>
+DTaP-IPV-HIB-HEPB,vaxelis.ped,VaxelisTM,,Vaxelis<sup>&trade;</sup>
+Hep A,havrix.ped,Havrix®,,Havrix<sup>&reg;</sup>
+Hep A,vaqta.ped,Vaqta®,,Vaqta<sup>&reg;</sup>
+Hep A/B,twinrix.ped,Twinrix®,,Twinrix<sup>&reg;</sup>
+Hep B,engerixb.ped,Engerix B®,,Engerix B<sup>&reg;</sup>
+Hep B,recombivaxhb.ped,Recombivax HB®,,Recombivax HB<sup>&reg;</sup>
+HiB,acthib.ped,ActHIB®,,ActHIB<sup>&reg;</sup>
+HiB,hiberix.ped,Hiberix®,,Hiberix<sup>&reg;</sup>
+HiB,pedvaxhib.ped,PedvaxHIB®,,PedvaxHIB<sup>&reg;</sup>
+HPV,gardasil9.ped,Gardasil®9,,Gardasil<sup>&reg;</sup>9
+Meningococcal,bexsero.ped,Bexsero®,,Bexsero<sup>&reg;</sup>
+Meningococcal,menquadfi.ped,MenQuadfiTM,,MenQuadfi<sup>&trade;</sup>
+Meningococcal,menveo.ped,Menveo®,,Menveo<sup>&reg;</sup>
+Meningococcal,trumenba.ped,Trumenba®,,Trumenba<sup>&reg;</sup>
+MMR,mmrii.ped,M-M-R®II,,M-M-R<sup>&reg;</sup>II
+MMR,priorix.ped,Priorix,,Priorix
+MMRV,proquad.ped,ProQuad®,,ProQuad<sup>&reg;</sup>
+Pneumococcal,pneumovax23.ped,Pneumovax®23,,Pneumovax<sup>&reg;</sup>23
+Pneumococcal,prevnar13.ped,Prevnar 13TM,,Prevnar 13<sup>&trade;</sup>
+Pneumococcal,vaxneuvance.ped,VaxneuvanceTM,,Vaxneuvance<sup>&trade;</sup>
+Polio,ipol.ped,IPOL®,,IPOL<sup>&reg;</sup>
+Rotavirus,rotarix.ped,Rotarix®,,Rotarix<sup>&reg;</sup>
+Rotavirus,rotateq.ped,RotaTeq®,,RotaTeq<sup>&reg;</sup>
+Varicella,varivax.ped,Varivax®,,Varivax<sup>&reg;</sup>
+DTaP/Tdap/Td,adacel.adult,Adacel®,,Adacel<sup>&reg;</sup>
+DTaP/Tdap/Td,boostrix.adult,Boostrix®,,Boostrix<sup>&reg;</sup>
+DTaP/Tdap/Td,tdvax.adult,TDVAXTM,,TDVAX<sup>&trade;</sup>
+DTaP/Tdap/Td,tenivac.adult,Tenivac,,Tenivac<sup>&reg;</sup>
+Hep A,havrix.adult,Havrix®,,Havrix<sup>&reg;</sup>
+Hep A,vaqta.adult,Vaqta®,,Vaqta<sup>&reg;</sup>
+Hep A/B,twinrix.adult,Twinrix®,,Twinrix<sup>&reg;</sup>
+Hep B,engerixb.adult,Engerix B®,,Engerix B<sup>&reg;</sup>
+Hep B,heplisavb.adult,Heplisav-BTM,,Heplisav-B<sup>&trade;</sup>
+Hep B,recombivaxhb.adult,Recombivax HB®,,Recombivax HB<sup>&reg;</sup>
+HPV,gardasil9.adult,Gardasil®9,,Gardasil<sup>&reg;</sup>9
+Meningococcal,bexsero.adult,Bexsero®,,Bexsero<sup>&reg;</sup>
+Meningococcal,menquadfi.adult,MenQuadfiTM,,MenQuadfi<sup>&trade;</sup>
+Meningococcal,menveo.adult,Menveo®,,Menveo<sup>&reg;</sup>
+Meningococcal,trumenba.adult,Trumenba®,,Trumenba<sup>&reg;</sup>
+MMR,mmrii.adult,M-M-R®II,,M-M-R<sup>&reg;</sup>II
+MMR,priorix.adult,Priorix,,Priorix
+Pneumococcal,pneumovax23.adult,Pneumovax®23,,Pneumovax<sup>&reg;</sup>23
+Pneumococcal,prevnar20.adult,Prevnar 20TM,,Prevnar 20<sup>&trade;</sup>
+Pneumococcal,vaxneuvance.adult,VaxneuvanceTM,,Vaxneuvance<sup>&trade;</sup>
+Varicella,varivax.adult,Varivax®,,Varivax<sup>&reg;</sup>
+Zoster (Shingles),shingrix.adult,Shingrix®,,Shingrix<sup>&reg;</sup>
