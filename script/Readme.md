@@ -1,0 +1,1 @@
+Run scripts in numeric order to recreate the analysis. For the analysis and plots there are two sets of scripts based on using the index used to account for inflation in the prices. Those with the PCE pre-fix are those used in the main analysis. Those with the CPI pre-fix were using in the supplement. 05_supplement uses the output of both sets of scripts to compare trends.  

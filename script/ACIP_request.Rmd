@@ -1,0 +1,80 @@
+---
+title: "ACIP_request"
+author: "RK"
+date: '2023-07-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+
+
+```{r cars}
+pacman::p_load(tidyr, tidyverse, readxl, plotly)
+
+# read in data
+model <- 
+  read_excel('../data/ACIP_request.xlsx', sheet = "model.input" ) %>%
+  # pivot_longer(c(matches("input"))) %>%
+   separate_wider_delim(currency.year, "$", names = c("A", "year")) %>%
+  separate_wider_delim(short.name, ".", names = c("short.name", "B"), too_few = "align_start", too_many = "drop") %>%  
+    rename(age =  child.adult, funder = public.private.price) %>%
+    rename(value = input.base.2022) %>%
+   mutate(year = as.numeric(year)) %>%
+  select(!c(A,B)) %>%
+  as_tibble()
+# model
+# colnames(model)
+
+price <- read.csv("../data_out/vacc_price.csv") %>%
+    # harmonize col names and formats with model data set
+    separate_wider_delim(short.name, ".", names = c("short.name", "B"), too_few = "align_start", too_many = "drop") %>%
+   pivot_longer(c(cdc.price.2022, private.price.2022)) %>%
+  separate_wider_delim(name, ".", names = c("funder", "C"), too_few = "align_start", too_many = "drop") %>%
+  mutate(funder = ifelse(funder == "cdc", "public", funder)) %>%
+  select(-c(X,B,C, private.mean.price, cdc.mean.price, pci.2022.factor)) %>%
+  #only keep vaccines that we have model data for
+  filter(short.name  %in% unique(model$short.name)) %>%
+  mutate(year = as.numeric(year)) %>%
+  as_tibble()
+# price
+# colnames(price)
+
+# full_join(
+# model %>%
+#   select(short.name,age, funder, value, price.list.2022),
+# price %>%
+#   group_by(short.name, age, funder) %>%
+#   filter(year == min(year)))
+
+```
+
+https://stackoverflow.com/questions/43432881/manipulating-legend-text-in-r-plotly has info on how to make a better legend. 
+```{r, fig.height=7, fig.width=14}
+
+#make plot
+p <- 
+  ggplot(data = model, aes(x= year, y = value, color = short.name, pch = funder)) +
+  geom_point(size =2) +
+  geom_errorbar(aes(ymin=input.low.2022, ymax=input.high.2022)) +
+  geom_point(data= price, aes(y = value, x= year, color = short.name, pch = funder))+
+  geom_line(data= price, aes(y = value, x= year, color = short.name))+
+  facet_wrap(~age) +
+ theme_bw() +
+  theme(plot.title = element_text(face = "bold", size = 16),
+        axis.title = element_text(face="bold",  size=20),
+        axis.text  = element_text(face="bold",  size=16, color = "black"),
+        legend.title = element_text(size=16),
+        legend.text = element_text(size=16),
+        strip.text = element_text(size = 14, face="bold")) +
+  labs(#shape="Vaccine",
+    color="Vaccine",
+    shape = "Payer",
+    y = "Cost per Dose \n(in US$2022 based on CPI medical)",
+    x = "year")
+
+ggplotly(p)
+```
+
