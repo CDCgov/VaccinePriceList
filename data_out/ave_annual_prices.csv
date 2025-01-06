@@ -1,0 +1,1712 @@
+"","name.age","year","vaccine","manufacturer","brandname_tradename","cost_type","ave_annual_cost_per_dose"
+"1","acthib.ped",2001,"Hib• ¤","Aventis Pateur","acthib","cdc",5.75
+"2","acthib.ped",2002,"Hib•¤","Aventis Pateur","acthib","cdc",6.80494505494505
+"3","acthib.ped",2003,"Hib•¤","Aventis
+Pasteur","acthib","cdc",7.46807692307692
+"4","acthib.ped",2004,"Hib•","Aventis Pasteur","acthib","cdc",7.52
+"5","acthib.ped",2005,"Hib•","Aventis Pasteur","acthib","cdc",7.6482032967033
+"6","acthib.ped",2006,"Hib•","sanofi pasteur","acthib","cdc",7.84756043956044
+"7","acthib.ped",2007,"Hib•","sanofi pasteur","acthib","cdc",8.13857142857143
+"8","acthib.ped",2008,"Hib•","sanofi pasteur","acthib","cdc",8.37692307692308
+"9","acthib.ped",2009,"Hib [5]","Sanofi Pasteur","acthib","cdc",8.65478021978022
+"10","acthib.ped",2010,"Hib [5]","Sanofi Pasteur","acthib","cdc",8.78563186813187
+"11","acthib.ped",2011,"Hib [5]","Sanofi Pasteur","acthib","cdc",8.95843406593407
+"12","acthib.ped",2012,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.14505494505494
+"13","acthib.ped",2013,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.29785714285714
+"14","acthib.ped",2014,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.35258241758242
+"15","acthib.ped",2015,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.42774725274725
+"16","acthib.ped",2016,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.525
+"17","acthib.ped",2017,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.55
+"18","acthib.ped",2018,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.30912087912088
+"19","acthib.ped",2019,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.4211978021978
+"20","acthib.ped",2020,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.6805
+"21","acthib.ped",2021,"Hib [5]","Sanofi Pasteur","acthib","cdc",9.95225274725275
+"22","acthib.ped",2022,"Hib [5]","Sanofi Pasteur","acthib","cdc",10.2985164835165
+"23","acthib.ped",2023,"Hib [5]","Sanofi Pasteur","acthib","cdc",10.6805604395604
+"24","acthib.ped",2001,"Hib• ¤","Aventis Pateur","acthib","private",15.25
+"25","acthib.ped",2002,"Hib•¤","Aventis Pateur","acthib","private",15.25
+"26","acthib.ped",2003,"Hib•¤","Aventis
+Pasteur","acthib","private",20.6677472527473
+"27","acthib.ped",2004,"Hib•","Aventis Pasteur","acthib","private",21.78
+"28","acthib.ped",2005,"Hib•","Aventis Pasteur","acthib","private",21.798543956044
+"29","acthib.ped",2006,"Hib•","sanofi pasteur","acthib","private",22.53
+"30","acthib.ped",2007,"Hib•","sanofi pasteur","acthib","private",22.0746428571429
+"31","acthib.ped",2008,"Hib•","sanofi pasteur","acthib","private",21.78
+"32","acthib.ped",2009,"Hib [5]","Sanofi Pasteur","acthib","private",22.7290384615385
+"33","acthib.ped",2010,"Hib [5]","Sanofi Pasteur","acthib","private",23.583010989011
+"34","acthib.ped",2011,"Hib [5]","Sanofi Pasteur","acthib","private",24.29
+"35","acthib.ped",2012,"Hib [5]","Sanofi Pasteur","acthib","private",25.4537912087912
+"36","acthib.ped",2013,"Hib [5]","Sanofi Pasteur","acthib","private",26.0778571428571
+"37","acthib.ped",2014,"Hib [5]","Sanofi Pasteur","acthib","private",26.21
+"38","acthib.ped",2015,"Hib [5]","Sanofi Pasteur","acthib","private",27.3774725274725
+"39","acthib.ped",2016,"Hib [5]","Sanofi Pasteur","acthib","private",24.5112087912088
+"40","acthib.ped",2017,"Hib [5]","Sanofi Pasteur","acthib","private",15.75
+"41","acthib.ped",2018,"Hib [5]","Sanofi Pasteur","acthib","private",16.05
+"42","acthib.ped",2019,"Hib [5]","Sanofi Pasteur","acthib","private",16.5087362637363
+"43","acthib.ped",2020,"Hib [5]","Sanofi Pasteur","acthib","private",17.14
+"44","acthib.ped",2021,"Hib [5]","Sanofi Pasteur","acthib","private",17.63
+"45","acthib.ped",2022,"Hib [5]","Sanofi Pasteur","acthib","private",18.0876703296703
+"46","acthib.ped",2023,"Hib [5]","Sanofi Pasteur","acthib","private",18.8783846153846
+"47","adacel.adult",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",26.6572727272727
+"48","adacel.adult",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",26.3207692307692
+"49","adacel.adult",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",26.25
+"50","adacel.adult",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",25.0179725274725
+"51","adacel.adult",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",24.2266236263736
+"52","adacel.adult",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",22.7940906593407
+"53","adacel.adult",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",23.0278571428571
+"54","adacel.adult",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",23.581532967033
+"55","adacel.adult",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",24.2545631868132
+"56","adacel.adult",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",24.9065
+"57","adacel.adult",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",24.4929642857143
+"58","adacel.adult",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",25.293293956044
+"59","adacel.adult",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",26.3720467032967
+"60","adacel.adult",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",27.286467032967
+"61","adacel.adult",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","cdc",27.9939368131868
+"62","adacel.adult",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",37.43
+"63","adacel.adult",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",37.43
+"64","adacel.adult",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",38.83
+"65","adacel.adult",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",39.3648901098901
+"66","adacel.adult",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",40.8582142857143
+"67","adacel.adult",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",41.06
+"68","adacel.adult",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",42.2267582417582
+"69","adacel.adult",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",43.42
+"70","adacel.adult",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",43.42
+"71","adacel.adult",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",44.24
+"72","adacel.adult",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",45.4965384615385
+"73","adacel.adult",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",46.8
+"74","adacel.adult",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",47.9483791208791
+"75","adacel.adult",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",49.3159258241758
+"76","adacel.adult",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi","adacel","private",52.243717032967
+"77","adacel.ped",2005,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","cdc",30.75
+"78","adacel.ped",2006,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","cdc",30.75
+"79","adacel.ped",2007,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","cdc",31.3571428571429
+"80","adacel.ped",2008,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","cdc",31.4807692307692
+"81","adacel.ped",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",30.75
+"82","adacel.ped",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",28.4045604395604
+"83","adacel.ped",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",29.3332692307692
+"84","adacel.ped",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",30.1847252747253
+"85","adacel.ped",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",30.41
+"86","adacel.ped",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",30.2895604395604
+"87","adacel.ped",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",31.0930769230769
+"88","adacel.ped",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",31.37
+"89","adacel.ped",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",31.086043956044
+"90","adacel.ped",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",30.9147252747253
+"91","adacel.ped",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",31.5373626373626
+"92","adacel.ped",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",32.413
+"93","adacel.ped",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",33.029945054945
+"94","adacel.ped",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",34.0903956043956
+"95","adacel.ped",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","cdc",35.364032967033
+"96","adacel.ped",2005,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","private",35.75
+"97","adacel.ped",2006,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","private",35.75
+"98","adacel.ped",2007,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","private",36.77
+"99","adacel.ped",2008,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","sanofi pasteur","adacel","private",37.43
+"100","adacel.ped",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",37.43
+"101","adacel.ped",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",37.43
+"102","adacel.ped",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",38.83
+"103","adacel.ped",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",39.9148901098901
+"104","adacel.ped",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",40.8582142857143
+"105","adacel.ped",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",41.06
+"106","adacel.ped",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",42.2267582417582
+"107","adacel.ped",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",43.42
+"108","adacel.ped",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",43.42
+"109","adacel.ped",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",44.24
+"110","adacel.ped",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",45.4965384615385
+"111","adacel.ped",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",46.8
+"112","adacel.ped",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",48.14
+"113","adacel.ped",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",49.9006758241758
+"114","adacel.ped",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","Sanofi Pasteur","adacel","private",52.243717032967
+"115","bexsero.adult",2015,"MENB – Meningococcal Group B [5]","Novartis","bexsero","cdc",122.35
+"116","bexsero.adult",2016,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",116.53739010989
+"117","bexsero.adult",2017,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",106.133244505495
+"118","bexsero.adult",2018,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",106.11
+"119","bexsero.adult",2019,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",103.933582417582
+"120","bexsero.adult",2020,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",105.413
+"121","bexsero.adult",2021,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",109.15539010989
+"122","bexsero.adult",2022,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",114.901645604396
+"123","bexsero.adult",2023,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",122.739895604396
+"124","bexsero.adult",2015,"MENB – Meningococcal Group B [5]","Novartis","bexsero","private",160.75
+"125","bexsero.adult",2016,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",160.75
+"126","bexsero.adult",2017,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",160.75
+"127","bexsero.adult",2018,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",164.513736263736
+"128","bexsero.adult",2019,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",169.513736263736
+"129","bexsero.adult",2020,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",174.276098901099
+"130","bexsero.adult",2021,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",190.680865384615
+"131","bexsero.adult",2022,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",196.546236263736
+"132","bexsero.adult",2023,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",210.468052197802
+"133","bexsero.ped",2015,"MENB – Meningococcal Group B [5]","Novartis","bexsero","cdc",122.95
+"134","bexsero.ped",2016,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",112.811428571429
+"135","bexsero.ped",2017,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",104.62
+"136","bexsero.ped",2018,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",110.791263736264
+"137","bexsero.ped",2019,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",116.294285714286
+"138","bexsero.ped",2020,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",117.3125
+"139","bexsero.ped",2021,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",126.535978021978
+"140","bexsero.ped",2022,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",133.416313186813
+"141","bexsero.ped",2023,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","cdc",140.04943956044
+"142","bexsero.ped",2015,"MENB – Meningococcal Group B [5]","Novartis","bexsero","private",160.75
+"143","bexsero.ped",2016,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",160.75
+"144","bexsero.ped",2017,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",160.75
+"145","bexsero.ped",2018,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",164.513736263736
+"146","bexsero.ped",2019,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",169.513736263736
+"147","bexsero.ped",2020,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",174.276098901099
+"148","bexsero.ped",2021,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",190.680865384615
+"149","bexsero.ped",2022,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",198.933736263736
+"150","bexsero.ped",2023,"MENB – Meningococcal Group B [5]","GlaxoSmithKline","bexsero","private",210.468052197802
+"151","boostrix.adult",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",26.48
+"152","boostrix.adult",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",26.2702197802198
+"153","boostrix.adult",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",26.3776923076923
+"154","boostrix.adult",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",25.8956868131868
+"155","boostrix.adult",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",25.3018681318681
+"156","boostrix.adult",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",25.5747747252747
+"157","boostrix.adult",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",24.0026098901099
+"158","boostrix.adult",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",23.9182967032967
+"159","boostrix.adult",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",24.3625769230769
+"160","boostrix.adult",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",24.504
+"161","boostrix.adult",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",24.568956043956
+"162","boostrix.adult",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",24.9596868131868
+"163","boostrix.adult",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",25.4405686813187
+"164","boostrix.adult",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",26.3383379120879
+"165","boostrix.adult",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",27.6579258241758
+"166","boostrix.adult",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"167","boostrix.adult",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"168","boostrix.adult",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"169","boostrix.adult",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"170","boostrix.adult",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"171","boostrix.adult",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"172","boostrix.adult",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"173","boostrix.adult",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"174","boostrix.adult",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",38.4450549450549
+"175","boostrix.adult",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",39.8769230769231
+"176","boostrix.adult",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",40.9081318681319
+"177","boostrix.adult",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",41.6745274725275
+"178","boostrix.adult",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",43.4585467032967
+"179","boostrix.adult",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",44.1839038461538
+"180","boostrix.adult",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",45.9682445054945
+"181","boostrix.ped",2005,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","cdc",28.75
+"182","boostrix.ped",2006,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","cdc",30.1840659340659
+"183","boostrix.ped",2007,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","cdc",30.75
+"184","boostrix.ped",2008,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","cdc",30.75
+"185","boostrix.ped",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",29.4544505494505
+"186","boostrix.ped",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",28.5091758241758
+"187","boostrix.ped",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",29.3477747252747
+"188","boostrix.ped",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",30.1847252747253
+"189","boostrix.ped",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",30.4746153846154
+"190","boostrix.ped",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",30.6334065934066
+"191","boostrix.ped",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",31.0991758241758
+"192","boostrix.ped",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",31.3919505494505
+"193","boostrix.ped",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",31.4146153846154
+"194","boostrix.ped",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",31.4178021978022
+"195","boostrix.ped",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",32.0248901098901
+"196","boostrix.ped",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",32.915
+"197","boostrix.ped",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",33.8377967032967
+"198","boostrix.ped",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",34.7858736263736
+"199","boostrix.ped",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","cdc",35.7619505494505
+"200","boostrix.ped",2005,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","private",35.25
+"201","boostrix.ped",2006,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","private",35.967032967033
+"202","boostrix.ped",2007,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","private",36.25
+"203","boostrix.ped",2008,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis/","GlaxoSmithKline","boostrix","private",36.375
+"204","boostrix.ped",2009,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"205","boostrix.ped",2010,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"206","boostrix.ped",2011,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"207","boostrix.ped",2012,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"208","boostrix.ped",2013,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"209","boostrix.ped",2014,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"210","boostrix.ped",2015,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",37.55
+"211","boostrix.ped",2016,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",38.345
+"212","boostrix.ped",2017,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",38.977967032967
+"213","boostrix.ped",2018,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",39.8769230769231
+"214","boostrix.ped",2019,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",40.9081318681319
+"215","boostrix.ped",2020,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",41.6745274725275
+"216","boostrix.ped",2021,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",43.4585467032967
+"217","boostrix.ped",2022,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",44.4936538461538
+"218","boostrix.ped",2023,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis [1]","GlaxoSmithKline","boostrix","private",45.9682445054945
+"219","daptacel.ped",2003,"DTaP/¤","Aventis
+Pasteur","daptacel","cdc",12.75
+"220","daptacel.ped",2004,"DTaP/","Aventis Pasteur","daptacel","cdc",12.75
+"221","daptacel.ped",2005,"DTaP/","Aventis
+Pasteur","daptacel","cdc",12.75
+"222","daptacel.ped",2006,"DTaP/","sanofi pasteur","daptacel","cdc",12.75
+"223","daptacel.ped",2007,"DTaP/","sanofi pasteur","daptacel","cdc",13.0535714285714
+"224","daptacel.ped",2008,"DTaP/","sanofi pasteur","daptacel","cdc",13.25
+"225","daptacel.ped",2009,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",13.6195054945055
+"226","daptacel.ped",2010,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",14.489010989011
+"227","daptacel.ped",2011,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",14.421978021978
+"228","daptacel.ped",2012,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",14.8653846153846
+"229","daptacel.ped",2013,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",15.286043956044
+"230","daptacel.ped",2014,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",15.38
+"231","daptacel.ped",2015,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",15.8768131868132
+"232","daptacel.ped",2016,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",16.5575
+"233","daptacel.ped",2017,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",17.0513186813187
+"234","daptacel.ped",2018,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",17.4987362637363
+"235","daptacel.ped",2019,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",17.9570164835165
+"236","daptacel.ped",2020,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",18.42725
+"237","daptacel.ped",2021,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",19.0398021978022
+"238","daptacel.ped",2022,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",19.7123626373626
+"239","daptacel.ped",2023,"DTaP [1]","Sanofi Pasteur","daptacel","cdc",20.5439230769231
+"240","daptacel.ped",2003,"DTaP/¤","Aventis
+Pasteur","daptacel","private",20.752582781457
+"241","daptacel.ped",2004,"DTaP/","Aventis Pasteur","daptacel","private",22.04
+"242","daptacel.ped",2005,"DTaP/","Aventis
+Pasteur","daptacel","private",22.04
+"243","daptacel.ped",2006,"DTaP/","sanofi pasteur","daptacel","private",22.04
+"244","daptacel.ped",2007,"DTaP/","sanofi pasteur","daptacel","private",22.04
+"245","daptacel.ped",2008,"DTaP/","sanofi pasteur","daptacel","private",22.04
+"246","daptacel.ped",2009,"DTaP [1]","Sanofi Pasteur","daptacel","private",22.9348076923077
+"247","daptacel.ped",2010,"DTaP [1]","Sanofi Pasteur","daptacel","private",23.7353763736264
+"248","daptacel.ped",2011,"DTaP [1]","Sanofi Pasteur","daptacel","private",24.4
+"249","daptacel.ped",2012,"DTaP [1]","Sanofi Pasteur","daptacel","private",25.2777747252747
+"250","daptacel.ped",2013,"DTaP [1]","Sanofi Pasteur","daptacel","private",25.8567857142857
+"251","daptacel.ped",2014,"DTaP [1]","Sanofi Pasteur","daptacel","private",25.98
+"252","daptacel.ped",2015,"DTaP [1]","Sanofi Pasteur","daptacel","private",27.0653846153846
+"253","daptacel.ped",2016,"DTaP [1]","Sanofi Pasteur","daptacel","private",28.41
+"254","daptacel.ped",2017,"DTaP [1]","Sanofi Pasteur","daptacel","private",29.1956593406593
+"255","daptacel.ped",2018,"DTaP [1]","Sanofi Pasteur","daptacel","private",30
+"256","daptacel.ped",2019,"DTaP [1]","Sanofi Pasteur","daptacel","private",30.8376923076923
+"257","daptacel.ped",2020,"DTaP [1]","Sanofi Pasteur","daptacel","private",31.7
+"258","daptacel.ped",2021,"DTaP [1]","Sanofi Pasteur","daptacel","private",32.88
+"259","daptacel.ped",2022,"DTaP [1]","Sanofi Pasteur","daptacel","private",33.835989010989
+"260","daptacel.ped",2023,"DTaP [1]","Sanofi Pasteur","daptacel","private",35.6091620879121
+"261","dengvaxia.ped",2022,"Dengue Tetravalent Vaccine, Live [7]","Sanofi Pasteur","dengvaxia","cdc",94.05
+"262","dengvaxia.ped",2023,"Dengue Tetravalent Vaccine, Live [7]","Sanofi Pasteur","dengvaxia","cdc",95.4651648351648
+"263","dengvaxia.ped",2022,"Dengue Tetravalent Vaccine, Live [7]","Sanofi Pasteur","dengvaxia","private",99
+"264","dengvaxia.ped",2023,"Dengue Tetravalent Vaccine, Live [7]","Sanofi Pasteur","dengvaxia","private",100.811373626374
+"265","engerixb.adult",2001,"Hepatitis
+B-Adult•","GlaxoSmithKline","engerixb","cdc",23.25
+"266","engerixb.adult",2002,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",23.25
+"267","engerixb.adult",2003,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.0630769230769
+"268","engerixb.adult",2004,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.2328571428571
+"269","engerixb.adult",2005,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.25
+"270","engerixb.adult",2006,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.7032967032967
+"271","engerixb.adult",2007,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.9735714285714
+"272","engerixb.adult",2008,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","cdc",24.7757692307692
+"273","engerixb.adult",2009,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",25.7703296703297
+"274","engerixb.adult",2010,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",27.3535714285714
+"275","engerixb.adult",2011,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",27.6944505494506
+"276","engerixb.adult",2012,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",26.2857967032967
+"277","engerixb.adult",2013,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",24.8336263736264
+"278","engerixb.adult",2014,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",25.1831868131868
+"279","engerixb.adult",2015,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",24.2907692307692
+"280","engerixb.adult",2016,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",24.7361538461538
+"281","engerixb.adult",2017,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",25.7156593406593
+"282","engerixb.adult",2018,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","cdc",26.705
+"283","engerixb.adult",2019,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","cdc",28.5526071428571
+"284","engerixb.adult",2020,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","cdc",28.6973269230769
+"285","engerixb.adult",2021,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","cdc",29.9320247252747
+"286","engerixb.adult",2022,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","cdc",33.495
+"287","engerixb.adult",2023,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","cdc",34.8664945054945
+"288","engerixb.adult",2001,"Hepatitis
+B-Adult•","GlaxoSmithKline","engerixb","private",51.73
+"289","engerixb.adult",2002,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",51.73
+"290","engerixb.adult",2003,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",51.0023076923077
+"291","engerixb.adult",2004,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",48.65
+"292","engerixb.adult",2005,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",51.335
+"293","engerixb.adult",2006,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",50.6640934065934
+"294","engerixb.adult",2007,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",50.35
+"295","engerixb.adult",2008,"Hepatitis B-Adult•","GlaxoSmithKline","engerixb","private",50.9288461538462
+"296","engerixb.adult",2009,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"297","engerixb.adult",2010,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"298","engerixb.adult",2011,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"299","engerixb.adult",2012,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"300","engerixb.adult",2013,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"301","engerixb.adult",2014,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"302","engerixb.adult",2015,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"303","engerixb.adult",2016,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",52.5
+"304","engerixb.adult",2017,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",54.0663461538461
+"305","engerixb.adult",2018,"Hepatitis B-Adult [5]","GlaxoSmithKline","engerixb","private",56.45
+"306","engerixb.adult",2019,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","private",58.1046703296703
+"307","engerixb.adult",2020,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","private",60.1571703296703
+"308","engerixb.adult",2021,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","private",61.86
+"309","engerixb.adult",2022,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","private",63.089217032967
+"310","engerixb.adult",2023,"Hepatitis B Adult [5]","GlaxoSmithKline","engerixb","private",66.6295961538462
+"311","engerixb.ped",2001,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9
+"312","engerixb.ped",2002,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.5978021978022
+"313","engerixb.ped",2003,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.14478021978022
+"314","engerixb.ped",2004,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9
+"315","engerixb.ped",2005,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.4793956043956
+"316","engerixb.ped",2006,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.0717032967033
+"317","engerixb.ped",2007,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.1
+"318","engerixb.ped",2008,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.20769230769231
+"319","engerixb.ped",2009,"Hepatitis B[5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",9.68475274725275
+"320","engerixb.ped",2010,"Hepatitis B[5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",10.1195054945055
+"321","engerixb.ped",2011,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",10.3255494505495
+"322","engerixb.ped",2012,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",10.6256043956044
+"323","engerixb.ped",2013,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",10.8805494505495
+"324","engerixb.ped",2014,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",11.0429120879121
+"325","engerixb.ped",2015,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",11.08
+"326","engerixb.ped",2016,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",11.47
+"327","engerixb.ped",2017,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",12.1230769230769
+"328","engerixb.ped",2018,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",13.6022527472527
+"329","engerixb.ped",2019,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",15.527967032967
+"330","engerixb.ped",2020,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",15.705989010989
+"331","engerixb.ped",2021,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",15.6005549450549
+"332","engerixb.ped",2022,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",16.1223901098901
+"333","engerixb.ped",2023,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","cdc",16.737456043956
+"334","engerixb.ped",2001,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",24.2
+"335","engerixb.ped",2002,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",24.2
+"336","engerixb.ped",2003,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",23.5313736263736
+"337","engerixb.ped",2004,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"338","engerixb.ped",2005,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"339","engerixb.ped",2006,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"340","engerixb.ped",2007,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"341","engerixb.ped",2008,"Hepatitis B• Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"342","engerixb.ped",2009,"Hepatitis B[5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"343","engerixb.ped",2010,"Hepatitis B[5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"344","engerixb.ped",2011,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"345","engerixb.ped",2012,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"346","engerixb.ped",2013,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"347","engerixb.ped",2014,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"348","engerixb.ped",2015,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",21.37
+"349","engerixb.ped",2016,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",22.1425
+"350","engerixb.ped",2017,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",22.4
+"351","engerixb.ped",2018,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",22.8892857142857
+"352","engerixb.ped",2019,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",23.5543406593407
+"353","engerixb.ped",2020,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",24.1966456043956
+"354","engerixb.ped",2021,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",25.3099505494505
+"355","engerixb.ped",2022,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",26.0917032967033
+"356","engerixb.ped",2023,"Hepatitis B [5]
+Pediatric/Adolescent","GlaxoSmithKline","engerixb","private",27.2708763736264
+"357","gardasil9.adult",2015,"HPV-Human Papillomavirus 9 Valent","Merck","gardasil9","cdc",121.64
+"358","gardasil9.adult",2016,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",119.04
+"359","gardasil9.adult",2017,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",116.235494505495
+"360","gardasil9.adult",2018,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",127.388357142857
+"361","gardasil9.adult",2019,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",144.584739010989
+"362","gardasil9.adult",2020,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",140.587
+"363","gardasil9.adult",2021,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",150.232708791209
+"364","gardasil9.adult",2022,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",162.179651098901
+"365","gardasil9.adult",2023,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","cdc",171.482326923077
+"366","gardasil9.adult",2015,"HPV-Human Papillomavirus 9 Valent","Merck","gardasil9","private",167.560819672131
+"367","gardasil9.adult",2016,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",182.951648351648
+"368","gardasil9.adult",2017,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",197.366373626374
+"369","gardasil9.adult",2018,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",205.811538461538
+"370","gardasil9.adult",2019,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",220.707090659341
+"371","gardasil9.adult",2020,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",227.931
+"372","gardasil9.adult",2021,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",237.882804945055
+"373","gardasil9.adult",2022,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",256.324293956044
+"374","gardasil9.adult",2023,"HPV-Human Papillomavirus 9 Valent [5]","Merck","gardasil9","private",268.709126373626
+"375","gardasil9.ped",2015,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",134.26
+"376","gardasil9.ped",2016,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",137.019642857143
+"377","gardasil9.ped",2017,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",148.939450549451
+"378","gardasil9.ped",2018,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",163.190137362637
+"379","gardasil9.ped",2019,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",174.802527472527
+"380","gardasil9.ped",2020,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",184.7925
+"381","gardasil9.ped",2021,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",194.018076923077
+"382","gardasil9.ped",2022,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",205.149725274725
+"383","gardasil9.ped",2023,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","cdc",220.530549450549
+"384","gardasil9.ped",2015,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",166.07598540146
+"385","gardasil9.ped",2016,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",182.951648351648
+"386","gardasil9.ped",2017,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",197.366373626374
+"387","gardasil9.ped",2018,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",205.811538461538
+"388","gardasil9.ped",2019,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",220.707090659341
+"389","gardasil9.ped",2020,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",227.931
+"390","gardasil9.ped",2021,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",238.010552197802
+"391","gardasil9.ped",2022,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",256.324293956044
+"392","gardasil9.ped",2023,"HPV – Human Papillomavirus 9-valent [5]","Merck","gardasil9","private",268.709126373626
+"393","havrix.adult",2001,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","cdc",16.82
+"394","havrix.adult",2002,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","cdc",16.82
+"395","havrix.adult",2003,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","cdc",16.8557692307692
+"396","havrix.adult",2004,"Hepatitis A Adult","GlaxoSmithKline","havrix","cdc",17.75
+"397","havrix.adult",2005,"Hepatitis
+A Adult","GlaxoSmithKline","havrix","cdc",18.4876373626374
+"398","havrix.adult",2006,"Hepatitis A Adult•","GlaxoSmithKline","havrix","cdc",18.842032967033
+"399","havrix.adult",2007,"Hepatitis A Adult•","GlaxoSmithKline","havrix","cdc",19.0446428571429
+"400","havrix.adult",2008,"Hepatitis A Adult•","GlaxoSmithKline","havrix","cdc",18.895
+"401","havrix.adult",2009,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",19.7636263736264
+"402","havrix.adult",2010,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",21.0927472527473
+"403","havrix.adult",2011,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",21.2388461538462
+"404","havrix.adult",2012,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",21.1944230769231
+"405","havrix.adult",2013,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",23.3043681318681
+"406","havrix.adult",2014,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",25.3670054945055
+"407","havrix.adult",2015,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",25.73
+"408","havrix.adult",2016,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",25.7246428571429
+"409","havrix.adult",2017,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",25.7407142857143
+"410","havrix.adult",2018,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",27.005
+"411","havrix.adult",2019,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",29.5258076923077
+"412","havrix.adult",2020,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",32.2824313186813
+"413","havrix.adult",2021,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",34.7578708791209
+"414","havrix.adult",2022,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",37.6073131868132
+"415","havrix.adult",2023,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","cdc",38.569
+"416","havrix.adult",2001,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","private",59.45
+"417","havrix.adult",2002,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","private",59.45
+"418","havrix.adult",2003,"Hepatitis A Adult¤","GlaxoSmithKline","havrix","private",57.7843406593407
+"419","havrix.adult",2004,"Hepatitis A Adult","GlaxoSmithKline","havrix","private",52.4
+"420","havrix.adult",2005,"Hepatitis
+A Adult","GlaxoSmithKline","havrix","private",56.1078571428571
+"421","havrix.adult",2006,"Hepatitis A Adult•","GlaxoSmithKline","havrix","private",55.3428846153846
+"422","havrix.adult",2007,"Hepatitis A Adult•","GlaxoSmithKline","havrix","private",54.98
+"423","havrix.adult",2008,"Hepatitis A Adult•","GlaxoSmithKline","havrix","private",56.5173076923077
+"424","havrix.adult",2009,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",60.8886263736264
+"425","havrix.adult",2010,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.1
+"426","havrix.adult",2011,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.1272527472527
+"427","havrix.adult",2012,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.7131868131868
+"428","havrix.adult",2013,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.6450549450549
+"429","havrix.adult",2014,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.6689010989011
+"430","havrix.adult",2015,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.7131868131868
+"431","havrix.adult",2016,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",63.7217032967033
+"432","havrix.adult",2017,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",64.6762912087912
+"433","havrix.adult",2018,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",66.6
+"434","havrix.adult",2019,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",68.560521978022
+"435","havrix.adult",2020,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",70.4162197802198
+"436","havrix.adult",2021,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",73.5698543956044
+"437","havrix.adult",2022,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",75.219021978022
+"438","havrix.adult",2023,"Hepatitis A Adult [5]","GlaxoSmithKline","havrix","private",79.4493543956044
+"439","havrix.ped",2001,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","cdc",11.15
+"440","havrix.ped",2002,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","cdc",11.15
+"441","havrix.ped",2003,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","cdc",11.2266483516484
+"442","havrix.ped",2004,"Hepatitis A Pediatric","GlaxoSmithKline","havrix","cdc",11.15
+"443","havrix.ped",2005,"Hepatitis A Pediatric","GlaxoSmithKline","havrix","cdc",12.2281593406593
+"444","havrix.ped",2006,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","cdc",12.2075549450549
+"445","havrix.ped",2007,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","cdc",12.25
+"446","havrix.ped",2008,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","cdc",12.25
+"447","havrix.ped",2009,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",12.6195054945055
+"448","havrix.ped",2010,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",13.1195054945055
+"449","havrix.ped",2011,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",14.0054945054945
+"450","havrix.ped",2012,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",14.6416483516484
+"451","havrix.ped",2013,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",15.4223076923077
+"452","havrix.ped",2014,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",16.0214285714286
+"453","havrix.ped",2015,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",16.7973626373626
+"454","havrix.ped",2016,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",17.625
+"455","havrix.ped",2017,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",18.4651648351648
+"456","havrix.ped",2018,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",19.3574725274725
+"457","havrix.ped",2019,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",20.2875824175824
+"458","havrix.ped",2020,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",20.96475
+"459","havrix.ped",2021,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",21.5729285714286
+"460","havrix.ped",2022,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",22.197478021978
+"461","havrix.ped",2023,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","cdc",22.8407802197802
+"462","havrix.ped",2001,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","private",29.73
+"463","havrix.ped",2002,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","private",29.73
+"464","havrix.ped",2003,"Hepatitis A Pediatric¤","GlaxoSmithKline","havrix","private",28.8818131868132
+"465","havrix.ped",2004,"Hepatitis A Pediatric","GlaxoSmithKline","havrix","private",26.14
+"466","havrix.ped",2005,"Hepatitis A Pediatric","GlaxoSmithKline","havrix","private",28.588956043956
+"467","havrix.ped",2006,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","private",28.3636538461538
+"468","havrix.ped",2007,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","private",28.74
+"469","havrix.ped",2008,"Hepatitis A Pediatric•","GlaxoSmithKline","havrix","private",28.3819230769231
+"470","havrix.ped",2009,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",27.6401923076923
+"471","havrix.ped",2010,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"472","havrix.ped",2011,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"473","havrix.ped",2012,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"474","havrix.ped",2013,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"475","havrix.ped",2014,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"476","havrix.ped",2015,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",28.74
+"477","havrix.ped",2016,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",29.79
+"478","havrix.ped",2017,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",30.14
+"479","havrix.ped",2018,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",31.5024725274725
+"480","havrix.ped",2019,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",32.6575824175824
+"481","havrix.ped",2020,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",33.2899010989011
+"482","havrix.ped",2021,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",34.7624313186813
+"483","havrix.ped",2022,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",35.6170604395604
+"484","havrix.ped",2023,"Hepatitis A Pediatric [5]","GlaxoSmithKline","havrix","private",36.8342362637363
+"485","heplisavb.adult",2018,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",69.75
+"486","heplisavb.adult",2019,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",69.75
+"487","heplisavb.adult",2020,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",71.4
+"488","heplisavb.adult",2021,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",74.0001923076923
+"489","heplisavb.adult",2022,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",74.94
+"490","heplisavb.adult",2023,"Hepatitis B Adult [5]","Dynavax","heplisavb","cdc",74.94
+"491","heplisavb.adult",2018,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",115.75
+"492","heplisavb.adult",2019,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",115.75
+"493","heplisavb.adult",2020,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",117.563186813187
+"494","heplisavb.adult",2021,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",123.889423076923
+"495","heplisavb.adult",2022,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",130.346016483516
+"496","heplisavb.adult",2023,"Hepatitis B Adult [5]","Dynavax","heplisavb","private",137.39271978022
+"497","hiberix.ped",2009,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.66
+"498","hiberix.ped",2010,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.66
+"499","hiberix.ped",2011,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.90175824175824
+"500","hiberix.ped",2012,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.98
+"501","hiberix.ped",2013,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.98
+"502","hiberix.ped",2014,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.98
+"503","hiberix.ped",2015,"Hib [5]","GlaxoSmithKline","hiberix","cdc",8.98
+"504","hiberix.ped",2016,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.17912087912088
+"505","hiberix.ped",2017,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.46
+"506","hiberix.ped",2018,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.60302197802198
+"507","hiberix.ped",2019,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.50697802197802
+"508","hiberix.ped",2020,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.46
+"509","hiberix.ped",2021,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.58119230769231
+"510","hiberix.ped",2022,"Hib [5]","GlaxoSmithKline","hiberix","cdc",9.98834065934066
+"511","hiberix.ped",2023,"Hib [5]","GlaxoSmithKline","hiberix","cdc",10.6020494505494
+"512","hiberix.ped",2009,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"513","hiberix.ped",2010,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"514","hiberix.ped",2011,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"515","hiberix.ped",2012,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"516","hiberix.ped",2013,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"517","hiberix.ped",2014,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"518","hiberix.ped",2015,"Hib [5]","GlaxoSmithKline","hiberix","private",22.83
+"519","hiberix.ped",2016,"Hib [5]","GlaxoSmithKline","hiberix","private",17.615521978022
+"520","hiberix.ped",2017,"Hib [5]","GlaxoSmithKline","hiberix","private",10.26
+"521","hiberix.ped",2018,"Hib [5]","GlaxoSmithKline","hiberix","private",10.4782967032967
+"522","hiberix.ped",2019,"Hib [5]","GlaxoSmithKline","hiberix","private",10.7758241758242
+"523","hiberix.ped",2020,"Hib [5]","GlaxoSmithKline","hiberix","private",10.9756950549451
+"524","hiberix.ped",2021,"Hib [5]","GlaxoSmithKline","hiberix","private",11.5335714285714
+"525","hiberix.ped",2022,"Hib [5]","GlaxoSmithKline","hiberix","private",11.8949395604396
+"526","hiberix.ped",2023,"Hib [5]","GlaxoSmithKline","hiberix","private",12.4136758241758
+"527","infanrix.ped",2001,"DTaP/¤","GlaxoSmithKline","infanrix","cdc",10.58
+"528","infanrix.ped",2002,"DTaP/¤","GlaxoSmithKline","infanrix","cdc",11.4028571428571
+"529","infanrix.ped",2003,"DTaP/¤","GlaxoSmithKline","infanrix","cdc",12.0629120879121
+"530","infanrix.ped",2004,"DTaP/","GlaxoSmithKline","infanrix","cdc",12.75
+"531","infanrix.ped",2005,"DTaP/","GlaxoSmithKline","infanrix","cdc",13.7087912087912
+"532","infanrix.ped",2006,"DTaP/","GlaxoSmithKline","infanrix","cdc",13.1085164835165
+"533","infanrix.ped",2007,"DTaP/","GlaxoSmithKline","infanrix","cdc",13.25
+"534","infanrix.ped",2008,"DTaP/","GlaxoSmithKline","infanrix","cdc",13.3846153846154
+"535","infanrix.ped",2009,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",13.75
+"536","infanrix.ped",2010,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",14.1195054945055
+"537","infanrix.ped",2011,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",14.7032967032967
+"538","infanrix.ped",2012,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",15.2126373626374
+"539","infanrix.ped",2013,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",15.6778571428571
+"540","infanrix.ped",2014,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",15.7937912087912
+"541","infanrix.ped",2015,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",16.0535714285714
+"542","infanrix.ped",2016,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",16.675
+"543","infanrix.ped",2017,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",17.5075824175824
+"544","infanrix.ped",2018,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",18.0762637362637
+"545","infanrix.ped",2019,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",18.5513186813187
+"546","infanrix.ped",2020,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",19.03975
+"547","infanrix.ped",2021,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",19.6726098901099
+"548","infanrix.ped",2022,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",20.2374505494505
+"549","infanrix.ped",2023,"DTaP [1]","GlaxoSmithKline","infanrix","cdc",20.9137417582418
+"550","infanrix.ped",2001,"DTaP/¤","GlaxoSmithKline","infanrix","private",18.5
+"551","infanrix.ped",2002,"DTaP/¤","GlaxoSmithKline","infanrix","private",18.5
+"552","infanrix.ped",2003,"DTaP/¤","GlaxoSmithKline","infanrix","private",19.4541208791209
+"553","infanrix.ped",2004,"DTaP/","GlaxoSmithKline","infanrix","private",19.65
+"554","infanrix.ped",2005,"DTaP/","GlaxoSmithKline","infanrix","private",20.9384065934066
+"555","infanrix.ped",2006,"DTaP/","GlaxoSmithKline","infanrix","private",21.0958241758242
+"556","infanrix.ped",2007,"DTaP/","GlaxoSmithKline","infanrix","private",21.1485714285714
+"557","infanrix.ped",2008,"DTaP/","GlaxoSmithKline","infanrix","private",21.3094505494506
+"558","infanrix.ped",2009,"DTaP [1]","GlaxoSmithKline","infanrix","private",21.0061538461538
+"559","infanrix.ped",2010,"DTaP [1]","GlaxoSmithKline","infanrix","private",20.9745054945055
+"560","infanrix.ped",2011,"DTaP [1]","GlaxoSmithKline","infanrix","private",20.96
+"561","infanrix.ped",2012,"DTaP [1]","GlaxoSmithKline","infanrix","private",20.9652747252747
+"562","infanrix.ped",2013,"DTaP [1]","GlaxoSmithKline","infanrix","private",21.018021978022
+"563","infanrix.ped",2014,"DTaP [1]","GlaxoSmithKline","infanrix","private",20.9995604395604
+"564","infanrix.ped",2015,"DTaP [1]","GlaxoSmithKline","infanrix","private",20.9652747252747
+"565","infanrix.ped",2016,"DTaP [1]","GlaxoSmithKline","infanrix","private",22.04
+"566","infanrix.ped",2017,"DTaP [1]","GlaxoSmithKline","infanrix","private",22.4
+"567","infanrix.ped",2018,"DTaP [1]","GlaxoSmithKline","infanrix","private",23.642032967033
+"568","infanrix.ped",2019,"DTaP [1]","GlaxoSmithKline","infanrix","private",24.5468131868132
+"569","infanrix.ped",2020,"DTaP [1]","GlaxoSmithKline","infanrix","private",24.9895989010989
+"570","infanrix.ped",2021,"DTaP [1]","GlaxoSmithKline","infanrix","private",26.2302225274725
+"571","infanrix.ped",2022,"DTaP [1]","GlaxoSmithKline","infanrix","private",26.8524835164835
+"572","infanrix.ped",2023,"DTaP [1]","GlaxoSmithKline","infanrix","private",27.9376016483516
+"573","ipol.ped",2001,"e-IPV• ¤","Aventis Pasteur","ipol","cdc",8.25
+"574","ipol.ped",2002,"e-IPV•¤","Aventis Pasteur","ipol","cdc",8.63681318681319
+"575","ipol.ped",2003,"e-IPV•¤","Aventis Pasteur","ipol","cdc",9.07406593406593
+"576","ipol.ped",2004,"e-IPV•","Aventis Pasteur","ipol","cdc",9.96
+"577","ipol.ped",2005,"e-IPV•","Aventis Pasteur","ipol","cdc",10.143956043956
+"578","ipol.ped",2006,"e-IPV•","sanofi pasteur","ipol","cdc",10.7068131868132
+"579","ipol.ped",2007,"e-IPV•","sanofi pasteur","ipol","cdc",10.9657142857143
+"580","ipol.ped",2008,"e-IPV•","sanofi pasteur","ipol","cdc",11.1730769230769
+"581","ipol.ped",2009,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",11.5021703296703
+"582","ipol.ped",2010,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",11.6799725274725
+"583","ipol.ped",2011,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",11.9137637362637
+"584","ipol.ped",2012,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.1658241758242
+"585","ipol.ped",2013,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.3754945054945
+"586","ipol.ped",2014,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.4501098901099
+"587","ipol.ped",2015,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.5503296703297
+"588","ipol.ped",2016,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.685
+"589","ipol.ped",2017,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",12.9591208791209
+"590","ipol.ped",2018,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",13.2357142857143
+"591","ipol.ped",2019,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",13.4881868131868
+"592","ipol.ped",2020,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",13.775
+"593","ipol.ped",2021,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",14.0080769230769
+"594","ipol.ped",2022,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",14.8526428571429
+"595","ipol.ped",2023,"e-IPV [5]","Sanofi Pasteur","ipol","cdc",15.7656318681319
+"596","ipol.ped",2001,"e-IPV• ¤","Aventis Pasteur","ipol","private",15.42
+"597","ipol.ped",2002,"e-IPV•¤","Aventis Pasteur","ipol","private",15.42
+"598","ipol.ped",2003,"e-IPV•¤","Aventis Pasteur","ipol","private",21.1464835164835
+"599","ipol.ped",2004,"e-IPV•","Aventis Pasteur","ipol","private",21.8
+"600","ipol.ped",2005,"e-IPV•","Aventis Pasteur","ipol","private",21.8
+"601","ipol.ped",2006,"e-IPV•","sanofi pasteur","ipol","private",22.517032967033
+"602","ipol.ped",2007,"e-IPV•","sanofi pasteur","ipol","private",24.1907142857143
+"603","ipol.ped",2008,"e-IPV•","sanofi pasteur","ipol","private",25.3771978021978
+"604","ipol.ped",2009,"e-IPV [5]","Sanofi Pasteur","ipol","private",24.1346153846154
+"605","ipol.ped",2010,"e-IPV [5]","Sanofi Pasteur","ipol","private",24.7970851648352
+"606","ipol.ped",2011,"e-IPV [5]","Sanofi Pasteur","ipol","private",25.43
+"607","ipol.ped",2012,"e-IPV [5]","Sanofi Pasteur","ipol","private",26.6431043956044
+"608","ipol.ped",2013,"e-IPV [5]","Sanofi Pasteur","ipol","private",27.3007142857143
+"609","ipol.ped",2014,"e-IPV [5]","Sanofi Pasteur","ipol","private",27.44
+"610","ipol.ped",2015,"e-IPV [5]","Sanofi Pasteur","ipol","private",28.6530769230769
+"611","ipol.ped",2016,"e-IPV [5]","Sanofi Pasteur","ipol","private",30.17
+"612","ipol.ped",2017,"e-IPV [5]","Sanofi Pasteur","ipol","private",31.0551098901099
+"613","ipol.ped",2018,"e-IPV [5]","Sanofi Pasteur","ipol","private",31.97
+"614","ipol.ped",2019,"e-IPV [5]","Sanofi Pasteur","ipol","private",33.5257142857143
+"615","ipol.ped",2020,"e-IPV [5]","Sanofi Pasteur","ipol","private",35.17
+"616","ipol.ped",2021,"e-IPV [5]","Sanofi Pasteur","ipol","private",36.89
+"617","ipol.ped",2022,"e-IPV [5]","Sanofi Pasteur","ipol","private",38.2848406593407
+"618","ipol.ped",2023,"e-IPV [5]","Sanofi Pasteur","ipol","private",40.4811868131868
+"619","kinrix.ped",2008,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",32.25
+"620","kinrix.ped",2009,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",32.25
+"621","kinrix.ped",2010,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",32.6195054945055
+"622","kinrix.ped",2011,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",33.8832417582418
+"623","kinrix.ped",2012,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",35.1565934065934
+"624","kinrix.ped",2013,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",36.726978021978
+"625","kinrix.ped",2014,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",38.1612637362637
+"626","kinrix.ped",2015,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",38.5
+"627","kinrix.ped",2016,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",39.3025
+"628","kinrix.ped",2017,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",39.57
+"629","kinrix.ped",2018,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",40.1121153846154
+"630","kinrix.ped",2019,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",41.0330769230769
+"631","kinrix.ped",2020,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",42.17175
+"632","kinrix.ped",2021,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",43.3502527472527
+"633","kinrix.ped",2022,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",44.866967032967
+"634","kinrix.ped",2023,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","cdc",46.5418956043956
+"635","kinrix.ped",2008,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"636","kinrix.ped",2009,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"637","kinrix.ped",2010,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"638","kinrix.ped",2011,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"639","kinrix.ped",2012,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"640","kinrix.ped",2013,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"641","kinrix.ped",2014,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"642","kinrix.ped",2015,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48
+"643","kinrix.ped",2016,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",48.45
+"644","kinrix.ped",2017,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",49.2284340659341
+"645","kinrix.ped",2018,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",50.3662087912088
+"646","kinrix.ped",2019,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",51.7689010989011
+"647","kinrix.ped",2020,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",52.7497637362637
+"648","kinrix.ped",2021,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",55.4665412087912
+"649","kinrix.ped",2022,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",56.8275879120879
+"650","kinrix.ped",2023,"DTaP-IPV [2]","GlaxoSmithKline","kinrix","private",59.2022774725275
+"651","menquadfi.adult",2022,"Meningococcal Conjugate (Groups A, C, and Y) [5]","Sanofi","menquadfi","cdc",80.236
+"652","menquadfi.adult",2023,"Meningococcal Conjugate (Groups A, C, W and Y) [5]","Sanofi","menquadfi","cdc",79.7996153846154
+"653","menquadfi.adult",2022,"Meningococcal Conjugate (Groups A, C, and Y) [5]","Sanofi","menquadfi","private",148.71
+"654","menquadfi.adult",2023,"Meningococcal Conjugate (Groups A, C, W and Y) [5]","Sanofi","menquadfi","private",155.477950549451
+"655","menquadfi.ped",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Sanofi Pasteur","menquadfi","cdc",100.05
+"656","menquadfi.ped",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Sanofi Pasteur","menquadfi","cdc",103.563824175824
+"657","menquadfi.ped",2023,"Meningococcal Conjugate (Groups A, C, W and Y) [5]","Sanofi Pasteur","menquadfi","cdc",107.066571428571
+"658","menquadfi.ped",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Sanofi Pasteur","menquadfi","private",141.43
+"659","menquadfi.ped",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Sanofi Pasteur","menquadfi","private",146.91
+"660","menquadfi.ped",2023,"Meningococcal Conjugate (Groups A, C, W and Y) [5]","Sanofi Pasteur","menquadfi","private",155.477950549451
+"661","menveo.adult",2011,"Meningococcal Conjugate [5]","Novartis","menveo","cdc",65.52
+"662","menveo.adult",2012,"Meningococcal Conjugate [5]","Novartis","menveo","cdc",66.7366318681319
+"663","menveo.adult",2013,"Meningococcal Conjugate [5]","Novartis","menveo","cdc",68.6946758241758
+"664","menveo.adult",2014,"Meningococcal Conjugate [5]","Novartis","menveo","cdc",71.2965824175824
+"665","menveo.adult",2015,"Meningococcal Conjugate [5]","Novartis","menveo","cdc",71.6691098901099
+"666","menveo.adult",2016,"Meningococcal Conjugate [5]","GlaxoSmithKline","menveo","cdc",72.05
+"667","menveo.adult",2017,"Meningococcal Conjugate [5]","GlaxoSmithKline","menveo","cdc",69.7529010989011
+"668","menveo.adult",2018,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",65.91
+"669","menveo.adult",2019,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",66.7686923076923
+"670","menveo.adult",2020,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",68.868
+"671","menveo.adult",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",70.5483516483516
+"672","menveo.adult",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",73.6164395604396
+"673","menveo.adult",2023,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",77.5395384615385
+"674","menveo.adult",2011,"Meningococcal Conjugate [5]","Novartis","menveo","private",106.49
+"675","menveo.adult",2012,"Meningococcal Conjugate [5]","Novartis","menveo","private",109.39521978022
+"676","menveo.adult",2013,"Meningococcal Conjugate [5]","Novartis","menveo","private",112.170549450549
+"677","menveo.adult",2014,"Meningococcal Conjugate [5]","Novartis","menveo","private",117.137945054945
+"678","menveo.adult",2015,"Meningococcal Conjugate [5]","Novartis","menveo","private",117.418
+"679","menveo.adult",2016,"Meningococcal Conjugate [5]","GlaxoSmithKline","menveo","private",117.418
+"680","menveo.adult",2017,"Meningococcal Conjugate [5]","GlaxoSmithKline","menveo","private",117.418
+"681","menveo.adult",2018,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",124.593186813187
+"682","menveo.adult",2019,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",129.81043956044
+"683","menveo.adult",2020,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",132.367857142857
+"684","menveo.adult",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",139.549857142857
+"685","menveo.adult",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",142.106478021978
+"686","menveo.adult",2023,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",148.121450549451
+"687","menveo.ped",2010,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",79.75
+"688","menveo.ped",2011,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",80.7850274725275
+"689","menveo.ped",2012,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",82.2312637362637
+"690","menveo.ped",2013,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",82.3076923076923
+"691","menveo.ped",2014,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",82.2271428571429
+"692","menveo.ped",2015,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","cdc",83.7067032967033
+"693","menveo.ped",2016,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",77.7942857142857
+"694","menveo.ped",2017,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",75.2807142857143
+"695","menveo.ped",2018,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",79.4268131868132
+"696","menveo.ped",2019,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",81.7863186813187
+"697","menveo.ped",2020,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",90.84
+"698","menveo.ped",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",98.641945054945
+"699","menveo.ped",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",101.813142857143
+"700","menveo.ped",2023,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","cdc",104.84489010989
+"701","menveo.ped",2010,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",103.23156133829
+"702","menveo.ped",2011,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",105.736923076923
+"703","menveo.ped",2012,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",110.661895604396
+"704","menveo.ped",2013,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",112.170549450549
+"705","menveo.ped",2014,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",117.137945054945
+"706","menveo.ped",2015,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","Novartis","menveo","private",117.418
+"707","menveo.ped",2016,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",119.167
+"708","menveo.ped",2017,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",118.590406593407
+"709","menveo.ped",2018,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",124.593186813187
+"710","menveo.ped",2019,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",129.81043956044
+"711","menveo.ped",2020,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",132.367857142857
+"712","menveo.ped",2021,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",139.549857142857
+"713","menveo.ped",2022,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",143.150978021978
+"714","menveo.ped",2023,"Meningococcal Conjugate (Groups A, C, Y and W-135) [5]","GlaxoSmithKline","menveo","private",148.121450549451
+"715","mmrii.adult",2009,"Measles, Mumps and Rubella-Adult [1]","Merck","mmrii","cdc",34.065
+"716","mmrii.adult",2010,"Measles, Mumps and Rubella-Adult [1]","Merck","mmrii","cdc",33.6474532967033
+"717","mmrii.adult",2011,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",34.5981428571429
+"718","mmrii.adult",2012,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",36.452282967033
+"719","mmrii.adult",2013,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",37.4248873626374
+"720","mmrii.adult",2014,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",37.0949065934066
+"721","mmrii.adult",2015,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",39.0157967032967
+"722","mmrii.adult",2016,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",40
+"723","mmrii.adult",2017,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",41.0541758241758
+"724","mmrii.adult",2018,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","cdc",43.8845
+"725","mmrii.adult",2019,"Measles, Mumps, & Rubella [1]","Merck","mmrii","cdc",47.6031785714286
+"726","mmrii.adult",2020,"Measles, Mumps, & Rubella [1]","Merck","mmrii","cdc",48.861
+"727","mmrii.adult",2021,"Measles, Mumps, & Rubella [1]","Merck","mmrii","cdc",51.4089230769231
+"728","mmrii.adult",2022,"Measles, Mumps, & Rubella [1]","Merck","mmrii","cdc",54.9148873626374
+"729","mmrii.adult",2023,"Measles, Mumps, & Rubella [1]","Merck","mmrii","cdc",58.5610961538462
+"730","mmrii.adult",2009,"Measles, Mumps and Rubella-Adult [1]","Merck","mmrii","private",48.31
+"731","mmrii.adult",2010,"Measles, Mumps and Rubella-Adult [1]","Merck","mmrii","private",48.7470879120879
+"732","mmrii.adult",2011,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",50.16
+"733","mmrii.adult",2012,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",51.9100796703297
+"734","mmrii.adult",2013,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",54.7368021978022
+"735","mmrii.adult",2014,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",56.139
+"736","mmrii.adult",2015,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",60.0219697802198
+"737","mmrii.adult",2016,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",64.1878021978022
+"738","mmrii.adult",2017,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",68.3231043956044
+"739","mmrii.adult",2018,"Measles, Mumps, & Rubella-Adult [1]","Merck","mmrii","private",71.2369230769231
+"740","mmrii.adult",2019,"Measles, Mumps, & Rubella [1]","Merck","mmrii","private",76.2493351648352
+"741","mmrii.adult",2020,"Measles, Mumps, & Rubella [1]","Merck","mmrii","private",78.678
+"742","mmrii.adult",2021,"Measles, Mumps, & Rubella [1]","Merck","mmrii","private",81.6853708791209
+"743","mmrii.adult",2022,"Measles, Mumps, & Rubella [1]","Merck","mmrii","private",87.3798543956044
+"744","mmrii.adult",2023,"Measles, Mumps, & Rubella [1]","Merck","mmrii","private",89.6743791208791
+"745","mmrii.ped",2001,"MMR• ¤","Merck","mmrii","cdc",15.53
+"746","mmrii.ped",2002,"MMR/¤","Merck","mmrii","cdc",15.6073626373626
+"747","mmrii.ped",2003,"MMR/¤","Merck","mmrii","cdc",15.7226923076923
+"748","mmrii.ped",2004,"MMR/","Merck","mmrii","cdc",15.99
+"749","mmrii.ped",2005,"MMR/","Merck","mmrii","cdc",16.2560989010989
+"750","mmrii.ped",2006,"MMR/","Merck","mmrii","cdc",17.1073901098901
+"751","mmrii.ped",2007,"Measles, Mumps and Rubella ( MMR)/","Merck","mmrii","cdc",17.4742857142857
+"752","mmrii.ped",2008,"Measles, Mumps and Rubella (MMR)/","Merck","mmrii","cdc",17.7776923076923
+"753","mmrii.ped",2009,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",18.2895604395604
+"754","mmrii.ped",2010,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",18.5490467032967
+"755","mmrii.ped",2011,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",18.9029340659341
+"756","mmrii.ped",2012,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",19.2363186813187
+"757","mmrii.ped",2013,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",19.6529285714286
+"758","mmrii.ped",2014,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",19.8726648351648
+"759","mmrii.ped",2015,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",19.9024725274725
+"760","mmrii.ped",2016,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",20.0575
+"761","mmrii.ped",2017,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",20.4686813186813
+"762","mmrii.ped",2018,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",20.9362637362637
+"763","mmrii.ped",2019,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",21.177967032967
+"764","mmrii.ped",2020,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",21.586
+"765","mmrii.ped",2021,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",22.0106043956044
+"766","mmrii.ped",2022,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",23.2842857142857
+"767","mmrii.ped",2023,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","cdc",24.6372802197802
+"768","mmrii.ped",2001,"MMR• ¤","Merck","mmrii","private",28.2423420074349
+"769","mmrii.ped",2002,"MMR/¤","Merck","mmrii","private",28.35
+"770","mmrii.ped",2003,"MMR/¤","Merck","mmrii","private",33.6432967032967
+"771","mmrii.ped",2004,"MMR/","Merck","mmrii","private",34.73
+"772","mmrii.ped",2005,"MMR/","Merck","mmrii","private",38.0526373626374
+"773","mmrii.ped",2006,"MMR/","Merck","mmrii","private",41.391978021978
+"774","mmrii.ped",2007,"Measles, Mumps and Rubella ( MMR)/","Merck","mmrii","private",44.0582142857143
+"775","mmrii.ped",2008,"Measles, Mumps and Rubella (MMR)/","Merck","mmrii","private",45.2976923076923
+"776","mmrii.ped",2009,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",47.8925549450549
+"777","mmrii.ped",2010,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",48.7470879120879
+"778","mmrii.ped",2011,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",50.16
+"779","mmrii.ped",2012,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",51.9100796703297
+"780","mmrii.ped",2013,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",54.7368021978022
+"781","mmrii.ped",2014,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",56.139
+"782","mmrii.ped",2015,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",60.0223186813187
+"783","mmrii.ped",2016,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",64.1878021978022
+"784","mmrii.ped",2017,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",68.3231043956044
+"785","mmrii.ped",2018,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",71.2369230769231
+"786","mmrii.ped",2019,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",76.2493351648352
+"787","mmrii.ped",2020,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",78.678
+"788","mmrii.ped",2021,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",82.0686126373626
+"789","mmrii.ped",2022,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",87.3798543956044
+"790","mmrii.ped",2023,"Measles, Mumps and Rubella (MMR) [1]","Merck","mmrii","private",89.6743791208791
+"791","pediarix.ped",2003,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","cdc",32.75
+"792","pediarix.ped",2004,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","cdc",32.75
+"793","pediarix.ped",2005,"DTaP-Hep
+B-IPV*","GlaxoSmithKline","pediarix","cdc",35.5057142857143
+"794","pediarix.ped",2006,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","cdc",42.2191483516484
+"795","pediarix.ped",2007,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","cdc",45.875
+"796","pediarix.ped",2008,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","cdc",47.6538461538461
+"797","pediarix.ped",2009,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",48.75
+"798","pediarix.ped",2010,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",49.489010989011
+"799","pediarix.ped",2011,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",50.8076923076923
+"800","pediarix.ped",2012,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",51.839010989011
+"801","pediarix.ped",2013,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",52.4613186813187
+"802","pediarix.ped",2014,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",53.5435164835165
+"803","pediarix.ped",2015,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",53.86
+"804","pediarix.ped",2016,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",54.64
+"805","pediarix.ped",2017,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",56.0432967032967
+"806","pediarix.ped",2018,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",57.5892307692308
+"807","pediarix.ped",2019,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",58.782967032967
+"808","pediarix.ped",2020,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",60.29425
+"809","pediarix.ped",2021,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",62.0511483516484
+"810","pediarix.ped",2022,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",62.492
+"811","pediarix.ped",2023,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","cdc",63.8183406593407
+"812","pediarix.ped",2003,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","private",62.7225827814569
+"813","pediarix.ped",2004,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","private",69.41
+"814","pediarix.ped",2005,"DTaP-Hep
+B-IPV*","GlaxoSmithKline","pediarix","private",70.6984065934066
+"815","pediarix.ped",2006,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","private",70.72
+"816","pediarix.ped",2007,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","private",70.72
+"817","pediarix.ped",2008,"DTaP-Hep B-IPV*","GlaxoSmithKline","pediarix","private",70.72
+"818","pediarix.ped",2009,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"819","pediarix.ped",2010,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"820","pediarix.ped",2011,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"821","pediarix.ped",2012,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"822","pediarix.ped",2013,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"823","pediarix.ped",2014,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"824","pediarix.ped",2015,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",70.72
+"825","pediarix.ped",2016,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",72.2275
+"826","pediarix.ped",2017,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",72.73
+"827","pediarix.ped",2018,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",75.9065934065934
+"828","pediarix.ped",2019,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",78.606043956044
+"829","pediarix.ped",2020,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",80.7139285714286
+"830","pediarix.ped",2021,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",89.4382005494506
+"831","pediarix.ped",2022,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",90.045
+"832","pediarix.ped",2023,"DTaP-Hep B-IPV [4]","GlaxoSmithKline","pediarix","private",92.4135082417582
+"833","pedvaxhib.ped",2001,"Hib• ¤","Merck","pedvaxhib","cdc",8.1
+"834","pedvaxhib.ped",2002,"Hib•¤","Merck","pedvaxhib","cdc",8.25472527472527
+"835","pedvaxhib.ped",2003,"Hib•¤","Merck","pedvaxhib","cdc",8.66258241758242
+"836","pedvaxhib.ped",2004,"Hib•","Merck","pedvaxhib","cdc",9.77
+"837","pedvaxhib.ped",2005,"Hib•","Merck","pedvaxhib","cdc",9.95370879120879
+"838","pedvaxhib.ped",2006,"Hib•","Merck","pedvaxhib","cdc",10.5068131868132
+"839","pedvaxhib.ped",2007,"Hib•","Merck","pedvaxhib","cdc",10.7475
+"840","pedvaxhib.ped",2008,"Hib•","Merck","pedvaxhib","cdc",10.9457692307692
+"841","pedvaxhib.ped",2009,"Hib [5]","Merck","pedvaxhib","cdc",11.2821703296703
+"842","pedvaxhib.ped",2010,"Hib [5]","Merck","pedvaxhib","cdc",11.4533214285714
+"843","pedvaxhib.ped",2011,"Hib [5]","Merck","pedvaxhib","cdc",11.6084587912088
+"844","pedvaxhib.ped",2012,"Hib [5]","Merck","pedvaxhib","cdc",11.8793406593407
+"845","pedvaxhib.ped",2013,"Hib [5]","Merck","pedvaxhib","cdc",12.1280769230769
+"846","pedvaxhib.ped",2014,"Hib [5]","Merck","pedvaxhib","cdc",12.3004395604396
+"847","pedvaxhib.ped",2015,"Hib [5]","Merck","pedvaxhib","cdc",12.34
+"848","pedvaxhib.ped",2016,"Hib [5]","Merck","pedvaxhib","cdc",12.445
+"849","pedvaxhib.ped",2017,"Hib [5]","Merck","pedvaxhib","cdc",12.7116483516484
+"850","pedvaxhib.ped",2018,"Hib [5]","Merck","pedvaxhib","cdc",13.0158241758242
+"851","pedvaxhib.ped",2019,"Hib [5]","Merck","pedvaxhib","cdc",13.1803296703297
+"852","pedvaxhib.ped",2020,"Hib [5]","Merck","pedvaxhib","cdc",13.438
+"853","pedvaxhib.ped",2021,"Hib [5]","Merck","pedvaxhib","cdc",13.7217582417582
+"854","pedvaxhib.ped",2022,"Hib [5]","Merck","pedvaxhib","cdc",14.5653296703297
+"855","pedvaxhib.ped",2023,"Hib [5]","Merck","pedvaxhib","cdc",15.4553186813187
+"856","pedvaxhib.ped",2001,"Hib• ¤","Merck","pedvaxhib","private",18.3915241635688
+"857","pedvaxhib.ped",2002,"Hib•¤","Merck","pedvaxhib","private",18.95
+"858","pedvaxhib.ped",2003,"Hib•¤","Merck","pedvaxhib","private",21.0822527472527
+"859","pedvaxhib.ped",2004,"Hib•","Merck","pedvaxhib","private",21.52
+"860","pedvaxhib.ped",2005,"Hib•","Merck","pedvaxhib","private",22.7493956043956
+"861","pedvaxhib.ped",2006,"Hib•","Merck","pedvaxhib","private",22.77
+"862","pedvaxhib.ped",2007,"Hib•","Merck","pedvaxhib","private",22.77
+"863","pedvaxhib.ped",2008,"Hib•","Merck","pedvaxhib","private",22.77
+"864","pedvaxhib.ped",2009,"Hib [5]","Merck","pedvaxhib","private",22.77
+"865","pedvaxhib.ped",2010,"Hib [5]","Merck","pedvaxhib","private",22.77
+"866","pedvaxhib.ped",2011,"Hib [5]","Merck","pedvaxhib","private",22.77
+"867","pedvaxhib.ped",2012,"Hib [5]","Merck","pedvaxhib","private",22.77
+"868","pedvaxhib.ped",2013,"Hib [5]","Merck","pedvaxhib","private",22.7692472527473
+"869","pedvaxhib.ped",2014,"Hib [5]","Merck","pedvaxhib","private",22.769
+"870","pedvaxhib.ped",2015,"Hib [5]","Merck","pedvaxhib","private",22.9045384615385
+"871","pedvaxhib.ped",2016,"Hib [5]","Merck","pedvaxhib","private",24.1774725274725
+"872","pedvaxhib.ped",2017,"Hib [5]","Merck","pedvaxhib","private",25.5757692307692
+"873","pedvaxhib.ped",2018,"Hib [5]","Merck","pedvaxhib","private",26.23
+"874","pedvaxhib.ped",2019,"Hib [5]","Merck","pedvaxhib","private",26.230239010989
+"875","pedvaxhib.ped",2020,"Hib [5]","Merck","pedvaxhib","private",26.233
+"876","pedvaxhib.ped",2021,"Hib [5]","Merck","pedvaxhib","private",27.1372225274725
+"877","pedvaxhib.ped",2022,"Hib [5]","Merck","pedvaxhib","private",28.1919065934066
+"878","pedvaxhib.ped",2023,"Hib [5]","Merck","pedvaxhib","private",28.8021263736264
+"879","pentacel.ped",2008,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",50.1
+"880","pentacel.ped",2009,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",51.1272252747253
+"881","pentacel.ped",2010,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",50.9061813186813
+"882","pentacel.ped",2011,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",52.0976648351648
+"883","pentacel.ped",2012,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",53.9642857142857
+"884","pentacel.ped",2013,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",55.6441758241758
+"885","pentacel.ped",2014,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",53.3176373626374
+"886","pentacel.ped",2015,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",53.8978571428571
+"887","pentacel.ped",2016,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",56.2775
+"888","pentacel.ped",2017,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",56.7814725274725
+"889","pentacel.ped",2018,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",57.9363736263736
+"890","pentacel.ped",2019,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",59.152
+"891","pentacel.ped",2020,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",61.0915
+"892","pentacel.ped",2021,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",62.9547692307692
+"893","pentacel.ped",2022,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",65.1800549450549
+"894","pentacel.ped",2023,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","cdc",67.6368131868132
+"895","pentacel.ped",2008,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",72.91
+"896","pentacel.ped",2009,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",72.91
+"897","pentacel.ped",2010,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",75.2568681318681
+"898","pentacel.ped",2011,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",77.48
+"899","pentacel.ped",2012,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",80.389478021978
+"900","pentacel.ped",2013,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",80.43
+"901","pentacel.ped",2014,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",80.43
+"902","pentacel.ped",2015,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",83.2301098901099
+"903","pentacel.ped",2016,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",87.48
+"904","pentacel.ped",2017,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",89.9861538461538
+"905","pentacel.ped",2018,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",92.58
+"906","pentacel.ped",2019,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",96.1302197802198
+"907","pentacel.ped",2020,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",99.83
+"908","pentacel.ped",2021,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",103.68
+"909","pentacel.ped",2022,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",105.558857142857
+"910","pentacel.ped",2023,"DTaP-IP-HI [4]","Sanofi Pasteur","pentacel","private",110.861785714286
+"911","pneumovax23.adult",2012,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",22.8086610169492
+"912","pneumovax23.adult",2013,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",23.4218626373626
+"913","pneumovax23.adult",2014,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",34.198021978022
+"914","pneumovax23.adult",2015,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",27.5524478021978
+"915","pneumovax23.adult",2016,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",26.15
+"916","pneumovax23.adult",2017,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",37.273543956044
+"917","pneumovax23.adult",2018,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",51.8965
+"918","pneumovax23.adult",2019,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",60.7693956043956
+"919","pneumovax23.adult",2020,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",62.689
+"920","pneumovax23.adult",2021,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",68.628456043956
+"921","pneumovax23.adult",2022,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",75.0695961538461
+"922","pneumovax23.adult",2023,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",78.8164120879121
+"923","pneumovax23.adult",2012,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",57.624
+"924","pneumovax23.adult",2013,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",63.2855384615385
+"925","pneumovax23.adult",2014,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",67.9712087912088
+"926","pneumovax23.adult",2015,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",73.0251208791209
+"927","pneumovax23.adult",2016,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",81.4747252747253
+"928","pneumovax23.adult",2017,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",89.3028571428571
+"929","pneumovax23.adult",2018,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",94.9469230769231
+"930","pneumovax23.adult",2019,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",101.853417582418
+"931","pneumovax23.adult",2020,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",105.194
+"932","pneumovax23.adult",2021,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",109.861527472527
+"933","pneumovax23.adult",2022,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",116.006005494505
+"934","pneumovax23.adult",2023,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",117.080752747253
+"935","pneumovax23.ped",2012,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",37.99
+"936","pneumovax23.ped",2013,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",39.1341758241758
+"937","pneumovax23.ped",2014,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",41.0004395604396
+"938","pneumovax23.ped",2015,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",43.3643406593407
+"939","pneumovax23.ped",2016,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",45.795
+"940","pneumovax23.ped",2017,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",48.1336263736264
+"941","pneumovax23.ped",2018,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",52.0245604395604
+"942","pneumovax23.ped",2019,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",55.5112637362637
+"943","pneumovax23.ped",2020,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",58.415
+"944","pneumovax23.ped",2021,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",61.3481318681319
+"945","pneumovax23.ped",2022,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",64.8802197802198
+"946","pneumovax23.ped",2023,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","cdc",65.8
+"947","pneumovax23.ped",2012,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",61.944
+"948","pneumovax23.ped",2013,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",64.1222087912088
+"949","pneumovax23.ped",2014,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",67.968456043956
+"950","pneumovax23.ped",2015,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",73.0262857142857
+"951","pneumovax23.ped",2016,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",81.4747252747253
+"952","pneumovax23.ped",2017,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",89.3028571428571
+"953","pneumovax23.ped",2018,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",94.9469230769231
+"954","pneumovax23.ped",2019,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",101.853417582418
+"955","pneumovax23.ped",2020,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",105.194
+"956","pneumovax23.ped",2021,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",109.861527472527
+"957","pneumovax23.ped",2022,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",116.006005494505
+"958","pneumovax23.ped",2023,"Pneumococcal Polysaccharide (23 Valent)","Merck","pneumovax23","private",117.080752747253
+"959","prevnar13.ped",2010,"Pneumococcal
+13-valent [5] (Pediatric)","Wyeth","prevnar13","cdc",91.75
+"960","prevnar13.ped",2011,"Pneumococcal
+13-valent [5] (Pediatric)","Wyeth","prevnar13","cdc",95.875
+"961","prevnar13.ped",2012,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",100.705824175824
+"962","prevnar13.ped",2013,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",105.861483516484
+"963","prevnar13.ped",2014,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",111.124615384615
+"964","prevnar13.ped",2015,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",115.80478021978
+"965","prevnar13.ped",2016,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",119.52
+"966","prevnar13.ped",2017,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",125.306923076923
+"967","prevnar13.ped",2018,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",130.583186813187
+"968","prevnar13.ped",2019,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",135.714395604396
+"969","prevnar13.ped",2020,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",142.1175
+"970","prevnar13.ped",2021,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",149.096758241758
+"971","prevnar13.ped",2022,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",156.362692307692
+"972","prevnar13.ped",2023,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","cdc",158.18
+"973","prevnar13.ped",2010,"Pneumococcal
+13-valent [5] (Pediatric)","Wyeth","prevnar13","private",108.75
+"974","prevnar13.ped",2011,"Pneumococcal
+13-valent [5] (Pediatric)","Wyeth","prevnar13","private",114.584615384615
+"975","prevnar13.ped",2012,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",120.95
+"976","prevnar13.ped",2013,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",127.775027472527
+"977","prevnar13.ped",2014,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",136.634368131868
+"978","prevnar13.ped",2015,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",153.173076923077
+"979","prevnar13.ped",2016,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",160.336758241758
+"980","prevnar13.ped",2017,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",170.011648351648
+"981","prevnar13.ped",2018,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",180.05
+"982","prevnar13.ped",2019,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",184.651208791209
+"983","prevnar13.ped",2020,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",200.770082417582
+"984","prevnar13.ped",2021,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",211.020274725275
+"985","prevnar13.ped",2022,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",225.189148351648
+"986","prevnar13.ped",2023,"Pneumococcal
+13-valent [5] (Pediatric)","Pfizer","prevnar13","private",226.43
+"987","prevnar20.adult",2022,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","cdc",173.120054054054
+"988","prevnar20.adult",2023,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","cdc",174.926549450549
+"989","prevnar20.adult",2022,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","private",249
+"990","prevnar20.adult",2023,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","private",253.160521978022
+"991","prevnar20.ped",2023,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","cdc",178
+"992","prevnar20.ped",2023,"Pneumococcal
+20-valent [5]","Pfizer","prevnar20","private",253.21
+"993","priorix.adult",2022,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","cdc",55.89
+"994","priorix.adult",2023,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","cdc",58.5610961538462
+"995","priorix.adult",2022,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","private",87.314
+"996","priorix.adult",2023,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","private",89.6486593406593
+"997","priorix.ped",2022,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","cdc",23.67
+"998","priorix.ped",2023,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","cdc",24.6485714285714
+"999","priorix.ped",2022,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","private",87.314
+"1000","priorix.ped",2023,"Measles, Mumps and Rubella (MMR) [1]","GlaxoSmithKline","priorix","private",89.6486593406593
+"1001","proquad.ped",2005,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","cdc",74.85
+"1002","proquad.ped",2006,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","cdc",74.85
+"1003","proquad.ped",2007,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","cdc",76.6107142857143
+"1004","proquad.ped",2008,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","cdc",78.5576923076923
+"1005","proquad.ped",2009,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","cdc",82.1689010989011
+"1006","proquad.ped",2010,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","cdc",84.9225054945055
+"1007","proquad.ped",2011,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","cdc",85.718
+"1008","proquad.ped",2012,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","cdc",86.992043956044
+"1009","proquad.ped",2013,"MMR/Varicella [2]","Merck","proquad","cdc",94.3018076923077
+"1010","proquad.ped",2014,"MMR/Varicella [2]","Merck","proquad","cdc",101.171346153846
+"1011","proquad.ped",2015,"MMR/Varicella [2]","Merck","proquad","cdc",107.563571428571
+"1012","proquad.ped",2016,"MMR/Varicella [2]","Merck","proquad","cdc",112.94
+"1013","proquad.ped",2017,"MMR/Varicella [2]","Merck","proquad","cdc",117.59021978022
+"1014","proquad.ped",2018,"MMR/Varicella [2]","Merck","proquad","cdc",123.530054945055
+"1015","proquad.ped",2019,"MMR/Varicella [2]","Merck","proquad","cdc",129.84478021978
+"1016","proquad.ped",2020,"MMR/Varicella [2]","Merck","proquad","cdc",135.987
+"1017","proquad.ped",2021,"MMR/Varicella [2]","Merck","proquad","cdc",142.86728021978
+"1018","proquad.ped",2022,"MMR/Varicella [2]","Merck","proquad","cdc",151.310901098901
+"1019","proquad.ped",2023,"MMR/Varicella [2]","Merck","proquad","cdc",162.229082417582
+"1020","proquad.ped",2005,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","private",117.6
+"1021","proquad.ped",2006,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","private",117.6
+"1022","proquad.ped",2007,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","private",121.710357142857
+"1023","proquad.ped",2008,"Measles, Mumps, Rubella and Varicella (MMR-V) #","Merck","proquad","private",124.37
+"1024","proquad.ped",2009,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","private",128.093543956044
+"1025","proquad.ped",2010,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","private",130.088406593407
+"1026","proquad.ped",2011,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","private",133.93
+"1027","proquad.ped",2012,"Measles, Mumps, Rubella and Varicella (MMR-V) [2]","Merck","proquad","private",135.69010989011
+"1028","proquad.ped",2013,"MMR/Varicella [2]","Merck","proquad","private",146.820521978022
+"1029","proquad.ped",2014,"MMR/Varicella [2]","Merck","proquad","private",157.037076923077
+"1030","proquad.ped",2015,"MMR/Varicella [2]","Merck","proquad","private",169.299043956044
+"1031","proquad.ped",2016,"MMR/Varicella [2]","Merck","proquad","private",183.699450549451
+"1032","proquad.ped",2017,"MMR/Varicella [2]","Merck","proquad","private",194.872994505495
+"1033","proquad.ped",2018,"MMR/Varicella [2]","Merck","proquad","private",203.33
+"1034","proquad.ped",2019,"MMR/Varicella [2]","Merck","proquad","private",217.882656593407
+"1035","proquad.ped",2020,"MMR/Varicella [2]","Merck","proquad","private",224.937
+"1036","proquad.ped",2021,"MMR/Varicella [2]","Merck","proquad","private",234.784063186813
+"1037","proquad.ped",2022,"MMR/Varicella [2]","Merck","proquad","private",251.857398351648
+"1038","proquad.ped",2023,"MMR/Varicella [2]","Merck","proquad","private",265.17743956044
+"1039","quadracel.ped",2017,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",39.57
+"1040","quadracel.ped",2018,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",39.57
+"1041","quadracel.ped",2019,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",40.3957637362637
+"1042","quadracel.ped",2020,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",41.5145
+"1043","quadracel.ped",2021,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",42.967521978022
+"1044","quadracel.ped",2022,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",44.0806593406593
+"1045","quadracel.ped",2023,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","cdc",45.7193571428571
+"1046","quadracel.ped",2017,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",51.67
+"1047","quadracel.ped",2018,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",51.67
+"1048","quadracel.ped",2019,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",53.125989010989
+"1049","quadracel.ped",2020,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",54.63
+"1050","quadracel.ped",2021,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",56.18
+"1051","quadracel.ped",2022,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",57.8194835164835
+"1052","quadracel.ped",2023,"DTaP-IPV [2]","Sanofi Pasteur","quadracel","private",60.8902637362637
+"1053","recombivaxhb.adult",2001,"Hepatitis
+B-Adult•","Merck","recombivaxhb","cdc",23.5306691449814
+"1054","recombivaxhb.adult",2002,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",23.75
+"1055","recombivaxhb.adult",2003,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",24.1601098901099
+"1056","recombivaxhb.adult",2004,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",24.23
+"1057","recombivaxhb.adult",2005,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",24.3684615384615
+"1058","recombivaxhb.adult",2006,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",20.2476648351648
+"1059","recombivaxhb.adult",2007,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",21
+"1060","recombivaxhb.adult",2008,"Hepatitis B-Adult•","Merck","recombivaxhb","cdc",22.6139010989011
+"1061","recombivaxhb.adult",2009,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",23.9261538461538
+"1062","recombivaxhb.adult",2010,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",25.3
+"1063","recombivaxhb.adult",2011,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",24.7262967032967
+"1064","recombivaxhb.adult",2012,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",24.3431978021978
+"1065","recombivaxhb.adult",2013,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",24.473956043956
+"1066","recombivaxhb.adult",2014,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",25.8525769230769
+"1067","recombivaxhb.adult",2015,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",26.0065494505494
+"1068","recombivaxhb.adult",2016,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",23.7691483516484
+"1069","recombivaxhb.adult",2017,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",23.8017032967033
+"1070","recombivaxhb.adult",2018,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",27.73
+"1071","recombivaxhb.adult",2019,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",27.73
+"1072","recombivaxhb.adult",2020,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",26.5785
+"1073","recombivaxhb.adult",2021,"Hepatitis B Adult [5]","Merck","recombivaxhb","cdc",25.427
+"1074","recombivaxhb.adult",2022,"Hepatitis B Adult [5]","Merck","recombivaxhb","cdc",27.9244532967033
+"1075","recombivaxhb.adult",2023,"Hepatitis B-Adult [5]","Merck","recombivaxhb","cdc",32.425
+"1076","recombivaxhb.adult",2001,"Hepatitis
+B-Adult•","Merck","recombivaxhb","private",53.1923048327138
+"1077","recombivaxhb.adult",2002,"Hepatitis B-Adult•","Merck","recombivaxhb","private",56.2
+"1078","recombivaxhb.adult",2003,"Hepatitis B-Adult•","Merck","recombivaxhb","private",58.5977472527473
+"1079","recombivaxhb.adult",2004,"Hepatitis B-Adult•","Merck","recombivaxhb","private",59.09
+"1080","recombivaxhb.adult",2005,"Hepatitis B-Adult•","Merck","recombivaxhb","private",59.6899450549451
+"1081","recombivaxhb.adult",2006,"Hepatitis B-Adult•","Merck","recombivaxhb","private",59.5273901098901
+"1082","recombivaxhb.adult",2007,"Hepatitis B-Adult•","Merck","recombivaxhb","private",59.4603571428571
+"1083","recombivaxhb.adult",2008,"Hepatitis B-Adult•","Merck","recombivaxhb","private",59.2500549450549
+"1084","recombivaxhb.adult",2009,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.8461538461538
+"1085","recombivaxhb.adult",2010,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",61.22
+"1086","recombivaxhb.adult",2011,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",61.22
+"1087","recombivaxhb.adult",2012,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.2683021978022
+"1088","recombivaxhb.adult",2013,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.3501098901099
+"1089","recombivaxhb.adult",2014,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.2683021978022
+"1090","recombivaxhb.adult",2015,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",60.185717032967
+"1091","recombivaxhb.adult",2016,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.9735989010989
+"1092","recombivaxhb.adult",2017,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",59.1017032967033
+"1093","recombivaxhb.adult",2018,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",61.22
+"1094","recombivaxhb.adult",2019,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",61.22
+"1095","recombivaxhb.adult",2020,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",61.22
+"1096","recombivaxhb.adult",2021,"Hepatitis B Adult [5]","Merck","recombivaxhb","private",61.22
+"1097","recombivaxhb.adult",2022,"Hepatitis B Adult [5]","Merck","recombivaxhb","private",62.444293956044
+"1098","recombivaxhb.adult",2023,"Hepatitis B-Adult [5]","Merck","recombivaxhb","private",64.8391263736264
+"1099","recombivaxhb.ped",2001,"Hepatitis
+B• ¤ Preservative Free Pediatric/Adolescent","Merck","recombivaxhb","cdc",9
+"1100","recombivaxhb.ped",2002,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","cdc",13.3763736263736
+"1101","recombivaxhb.ped",2003,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","cdc",11.5975274725275
+"1102","recombivaxhb.ped",2004,"Hepatitis B 2 dose•¤ Adolescent (11-15)","Merck","recombivaxhb","cdc",11.1785714285714
+"1103","recombivaxhb.ped",2005,"Hepatitis B 2 dose• ¤Adolescent (11-15)","Merck","recombivaxhb","cdc",9.25137362637363
+"1104","recombivaxhb.ped",2006,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","cdc",13.3152472527473
+"1105","recombivaxhb.ped",2007,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","cdc",15.2946428571429
+"1106","recombivaxhb.ped",2008,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","cdc",20.3063186813187
+"1107","recombivaxhb.ped",2009,"Hepatitis B 2 dose [5]
+Adolescent (11-15)","Merck","recombivaxhb","cdc",11.3289835164835
+"1108","recombivaxhb.ped",2010,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",10.1847527472527
+"1109","recombivaxhb.ped",2011,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",10.4388736263736
+"1110","recombivaxhb.ped",2012,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",10.6792582417582
+"1111","recombivaxhb.ped",2013,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",11.0288461538462
+"1112","recombivaxhb.ped",2014,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",11.0618131868132
+"1113","recombivaxhb.ped",2015,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",11.5728021978022
+"1114","recombivaxhb.ped",2016,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.1625
+"1115","recombivaxhb.ped",2017,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.3
+"1116","recombivaxhb.ped",2018,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.3
+"1117","recombivaxhb.ped",2019,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.3
+"1118","recombivaxhb.ped",2020,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.4725
+"1119","recombivaxhb.ped",2021,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",12.8837912087912
+"1120","recombivaxhb.ped",2022,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",13.414010989011
+"1121","recombivaxhb.ped",2023,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","cdc",13.836043956044
+"1122","recombivaxhb.ped",2001,"Hepatitis
+B• ¤ Preservative Free Pediatric/Adolescent","Merck","recombivaxhb","private",20.7069516728625
+"1123","recombivaxhb.ped",2002,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","Merck","recombivaxhb","private",21.4
+"1124","recombivaxhb.ped",2003,"Hepatitis B•¤ Preservative Free Pediatric/Adolescent","Merck","recombivaxhb","private",22.8934065934066
+"1125","recombivaxhb.ped",2004,"Hepatitis B 2 dose•¤ Adolescent (11-15)","Merck","recombivaxhb","private",28.3271428571429
+"1126","recombivaxhb.ped",2005,"Hepatitis B 2 dose• ¤Adolescent (11-15)","Merck","recombivaxhb","private",23.7915934065934
+"1127","recombivaxhb.ped",2006,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","private",33.3556868131868
+"1128","recombivaxhb.ped",2007,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","private",37.2996428571429
+"1129","recombivaxhb.ped",2008,"Hepatitis B 2 dose• Adolescent (11-15)","Merck","recombivaxhb","private",49.3287087912088
+"1130","recombivaxhb.ped",2009,"Hepatitis B 2 dose [5]
+Adolescent (11-15)","Merck","recombivaxhb","private",26.6509615384615
+"1131","recombivaxhb.ped",2010,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.2
+"1132","recombivaxhb.ped",2011,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.2
+"1133","recombivaxhb.ped",2012,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.1979395604396
+"1134","recombivaxhb.ped",2013,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.2936703296703
+"1135","recombivaxhb.ped",2014,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.2654835164835
+"1136","recombivaxhb.ped",2015,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.2121978021978
+"1137","recombivaxhb.ped",2016,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.1989395604396
+"1138","recombivaxhb.ped",2017,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.4534340659341
+"1139","recombivaxhb.ped",2018,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.95
+"1140","recombivaxhb.ped",2019,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.95
+"1141","recombivaxhb.ped",2020,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",23.95
+"1142","recombivaxhb.ped",2021,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",24.7734725274725
+"1143","recombivaxhb.ped",2022,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",25.7316208791209
+"1144","recombivaxhb.ped",2023,"Hepatitis B [5]
+Pediatric/Adolescent","Merck","recombivaxhb","private",26.2841263736264
+"1145","rotarix.ped",2008,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",82.25
+"1146","rotarix.ped",2009,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",82.989010989011
+"1147","rotarix.ped",2010,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",83.6195054945055
+"1148","rotarix.ped",2011,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",87.9052197802198
+"1149","rotarix.ped",2012,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",90.5337362637363
+"1150","rotarix.ped",2013,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",91.8706043956044
+"1151","rotarix.ped",2014,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",90.2032417582418
+"1152","rotarix.ped",2015,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",85.04
+"1153","rotarix.ped",2016,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",86.3225
+"1154","rotarix.ped",2017,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",89.9631868131868
+"1155","rotarix.ped",2018,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",92.404945054945
+"1156","rotarix.ped",2019,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",94.2350549450549
+"1157","rotarix.ped",2020,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",96.8035
+"1158","rotarix.ped",2021,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",98.9645659340659
+"1159","rotarix.ped",2022,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",101.671884615385
+"1160","rotarix.ped",2023,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","cdc",104.699879120879
+"1161","rotarix.ped",2008,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",102.5
+"1162","rotarix.ped",2009,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",102.5
+"1163","rotarix.ped",2010,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",102.5
+"1164","rotarix.ped",2011,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",102.5
+"1165","rotarix.ped",2012,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",106.31282967033
+"1166","rotarix.ped",2013,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",106.57
+"1167","rotarix.ped",2014,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",106.57
+"1168","rotarix.ped",2015,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",106.57
+"1169","rotarix.ped",2016,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",108.94
+"1170","rotarix.ped",2017,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",109.746758241758
+"1171","rotarix.ped",2018,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",115.546153846154
+"1172","rotarix.ped",2019,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",120.084615384615
+"1173","rotarix.ped",2020,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",122.445895604396
+"1174","rotarix.ped",2021,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",126.821131868132
+"1175","rotarix.ped",2022,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",129.883406593407
+"1176","rotarix.ped",2023,"Rotavirus, Live, Oral, Oral [5]","GlaxoSmithKline","rotarix","private",134.389686813187
+"1177","rotateq.ped",2006,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","cdc",52
+"1178","rotateq.ped",2007,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","cdc",53.8517857142857
+"1179","rotateq.ped",2008,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","cdc",55.6288461538461
+"1180","rotateq.ped",2009,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",57.2
+"1181","rotateq.ped",2010,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",58.6602857142857
+"1182","rotateq.ped",2011,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",59.6172087912088
+"1183","rotateq.ped",2012,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",61.0437362637363
+"1184","rotateq.ped",2013,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",63.3599285714286
+"1185","rotateq.ped",2014,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",63.9601648351648
+"1186","rotateq.ped",2015,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",63.96
+"1187","rotateq.ped",2016,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",65.8575
+"1188","rotateq.ped",2017,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",68.4552747252747
+"1189","rotateq.ped",2018,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",70.1512637362637
+"1190","rotateq.ped",2019,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",70.49
+"1191","rotateq.ped",2020,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",71.5325
+"1192","rotateq.ped",2021,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",74.0253296703297
+"1193","rotateq.ped",2022,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",76.4010989010989
+"1194","rotateq.ped",2023,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","cdc",78.6737912087912
+"1195","rotateq.ped",2006,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","private",63.25
+"1196","rotateq.ped",2007,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","private",65.4903571428571
+"1197","rotateq.ped",2008,"Rotavirus, Live, Oral, Pentavalent •","Merck","rotateq","private",67.6534615384615
+"1198","rotateq.ped",2009,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",69.59
+"1199","rotateq.ped",2010,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",69.59
+"1200","rotateq.ped",2011,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",69.59
+"1201","rotateq.ped",2012,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",72.1048818681319
+"1202","rotateq.ped",2013,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",74.8564230769231
+"1203","rotateq.ped",2014,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",75.203
+"1204","rotateq.ped",2015,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",75.661
+"1205","rotateq.ped",2016,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",79.201978021978
+"1206","rotateq.ped",2017,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",81.8151923076923
+"1207","rotateq.ped",2018,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",82.89
+"1208","rotateq.ped",2019,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",83.4358296703297
+"1209","rotateq.ped",2020,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",84.5320027472527
+"1210","rotateq.ped",2021,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",87.5055521978022
+"1211","rotateq.ped",2022,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",90.9696868131868
+"1212","rotateq.ped",2023,"Rotavirus, Live, Oral, Pentavalent [5]","Merck","rotateq","private",93.1251263736264
+"1213","shingrix.adult",2018,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",102.19
+"1214","shingrix.adult",2019,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",102.546950549451
+"1215","shingrix.adult",2020,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",101.504945054945
+"1216","shingrix.adult",2021,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",98.89
+"1217","shingrix.adult",2022,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",101.725494505494
+"1218","shingrix.adult",2023,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","cdc",112.772541208791
+"1219","shingrix.adult",2018,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",140
+"1220","shingrix.adult",2019,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",142.111538461538
+"1221","shingrix.adult",2020,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",150.795961538462
+"1222","shingrix.adult",2021,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",161.107252747253
+"1223","shingrix.adult",2022,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",166.815258241758
+"1224","shingrix.adult",2023,"Zoster Vaccine Recombinant, Adjuvanted","GlaxoSmithKline","shingrix","private",182.399467032967
+"1225","tdvax.adult",2019,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",15.3418430656934
+"1226","tdvax.adult",2020,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.148
+"1227","tdvax.adult",2021,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.3705549450549
+"1228","tdvax.adult",2022,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.876717032967
+"1229","tdvax.adult",2023,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",17.8541483516484
+"1230","tdvax.adult",2019,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.122
+"1231","tdvax.adult",2020,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.6875
+"1232","tdvax.adult",2021,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.876
+"1233","tdvax.adult",2022,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",26.5265549450549
+"1234","tdvax.adult",2023,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",27.783489010989
+"1235","tdvax.ped",2019,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.027
+"1236","tdvax.ped",2020,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.264
+"1237","tdvax.ped",2021,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",16.4958076923077
+"1238","tdvax.ped",2022,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",17.156478021978
+"1239","tdvax.ped",2023,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","cdc",18.2241648351648
+"1240","tdvax.ped",2019,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.122
+"1241","tdvax.ped",2020,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.6875
+"1242","tdvax.ped",2021,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",25.876
+"1243","tdvax.ped",2022,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",26.8500549450549
+"1244","tdvax.ped",2023,"Tetanus and Diphtheria Toxoids [3]","Grifols","tdvax","private",27.783489010989
+"1245","tenivac.adult",2012,"Tetanus and Diphtheria Toxoids","Sanofi","tenivac","cdc",13.3863898305085
+"1246","tenivac.adult",2013,"Tetanus and Diphtheria Toxoids","Sanofi","tenivac","cdc",13.5279807692308
+"1247","tenivac.adult",2014,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",13.9323763736264
+"1248","tenivac.adult",2015,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",14.3116401098901
+"1249","tenivac.adult",2016,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.2704697802198
+"1250","tenivac.adult",2017,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.2720604395604
+"1251","tenivac.adult",2018,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.464
+"1252","tenivac.adult",2019,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.464
+"1253","tenivac.adult",2020,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.464
+"1254","tenivac.adult",2021,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",12.464
+"1255","tenivac.adult",2022,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","cdc",17.0299505494506
+"1256","tenivac.adult",2023,"Tetanus and Diphtheria Toxoids [3]","Sanofi","tenivac","cdc",21.7481043956044
+"1257","tenivac.adult",2012,"Tetanus and Diphtheria Toxoids","Sanofi","tenivac","private",21.15
+"1258","tenivac.adult",2013,"Tetanus and Diphtheria Toxoids","Sanofi","tenivac","private",21.6346428571429
+"1259","tenivac.adult",2014,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",21.74
+"1260","tenivac.adult",2015,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",25.0326098901099
+"1261","tenivac.adult",2016,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",29.73
+"1262","tenivac.adult",2017,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",32.256043956044
+"1263","tenivac.adult",2018,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",32.27
+"1264","tenivac.adult",2019,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",32.27
+"1265","tenivac.adult",2020,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",32.27
+"1266","tenivac.adult",2021,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",32.27
+"1267","tenivac.adult",2022,"Tetanus and Diphtheria Toxoids[3]","Sanofi","tenivac","private",35.1090137362637
+"1268","tenivac.adult",2023,"Tetanus and Diphtheria Toxoids [3]","Sanofi","tenivac","private",39.5829148351648
+"1269","tenivac.ped",2012,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",16.9756756756757
+"1270","tenivac.ped",2013,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",17.4537912087912
+"1271","tenivac.ped",2014,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",17.6603296703297
+"1272","tenivac.ped",2015,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",18.5406043956044
+"1273","tenivac.ped",2016,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",19.4725
+"1274","tenivac.ped",2017,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",19.69
+"1275","tenivac.ped",2018,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",19.960989010989
+"1276","tenivac.ped",2019,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",20.4692802197802
+"1277","tenivac.ped",2020,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",21.03675
+"1278","tenivac.ped",2021,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",21.6241208791209
+"1279","tenivac.ped",2022,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",22.380478021978
+"1280","tenivac.ped",2023,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","cdc",23.2155659340659
+"1281","tenivac.ped",2012,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",21.15
+"1282","tenivac.ped",2013,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",21.6346428571429
+"1283","tenivac.ped",2014,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",22.1916483516484
+"1284","tenivac.ped",2015,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",24.0547252747253
+"1285","tenivac.ped",2016,"Tetanus & Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",29.2607417582418
+"1286","tenivac.ped",2017,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",32.256043956044
+"1287","tenivac.ped",2018,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",32.89
+"1288","tenivac.ped",2019,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",33.8274175824176
+"1289","tenivac.ped",2020,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",34.8
+"1290","tenivac.ped",2021,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",36.14
+"1291","tenivac.ped",2022,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",37.4776318681319
+"1292","tenivac.ped",2023,"Tetanus and Diphtheria Toxoids [3]","Sanofi Pasteur","tenivac","private",39.5829148351648
+"1293","trumenba.adult",2015,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",85.235
+"1294","trumenba.adult",2016,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",85.5553296703297
+"1295","trumenba.adult",2017,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",82.2382417582418
+"1296","trumenba.adult",2018,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",75.814
+"1297","trumenba.adult",2019,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",80.482510989011
+"1298","trumenba.adult",2020,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",89.12
+"1299","trumenba.adult",2021,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",94.3114010989011
+"1300","trumenba.adult",2022,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",99.1802747252747
+"1301","trumenba.adult",2023,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",105.529642857143
+"1302","trumenba.adult",2015,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",115.5625
+"1303","trumenba.adult",2016,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",116.299725274725
+"1304","trumenba.adult",2017,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",123.554120879121
+"1305","trumenba.adult",2018,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",133.62
+"1306","trumenba.adult",2019,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",136.926593406593
+"1307","trumenba.adult",2020,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",148.947087912088
+"1308","trumenba.adult",2021,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",156.586752747253
+"1309","trumenba.adult",2022,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",167.23021978022
+"1310","trumenba.adult",2023,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",178.339285714286
+"1311","trumenba.ped",2015,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",95.75
+"1312","trumenba.ped",2016,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",95.75
+"1313","trumenba.ped",2017,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",99.6581318681319
+"1314","trumenba.ped",2018,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",103.847967032967
+"1315","trumenba.ped",2019,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",107.921428571429
+"1316","trumenba.ped",2020,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",113.0075
+"1317","trumenba.ped",2021,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",118.552802197802
+"1318","trumenba.ped",2022,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",124.326043956044
+"1319","trumenba.ped",2023,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","cdc",129.533736263736
+"1320","trumenba.ped",2015,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",115.75
+"1321","trumenba.ped",2016,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",116.299725274725
+"1322","trumenba.ped",2017,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",123.554120879121
+"1323","trumenba.ped",2018,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",133.62
+"1324","trumenba.ped",2019,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",136.926593406593
+"1325","trumenba.ped",2020,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",148.947087912088
+"1326","trumenba.ped",2021,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",156.71467032967
+"1327","trumenba.ped",2022,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",167.23021978022
+"1328","trumenba.ped",2023,"MENB – Meningococcal Group B [5]","Pfizer","trumenba","private",178.339285714286
+"1329","twinrix.adult",2001,"Hepatitis A-Hepatitis B Adult¤","GlaxoSmithKline","twinrix","cdc",36.16
+"1330","twinrix.adult",2002,"Hepatitis A-Hepatitis B Adult¤","GlaxoSmithKline","twinrix","cdc",36.16
+"1331","twinrix.adult",2003,"Hepatitis
+A-Hepatitis B Adult¤","GlaxoSmithKline","twinrix","cdc",36.16
+"1332","twinrix.adult",2004,"Hepatitis A-Hepatitis B 18 only•","GlaxoSmithKline","twinrix","cdc",36.16
+"1333","twinrix.adult",2005,"Hepatitis A-Hepatitis B 18 only•","GlaxoSmithKline","twinrix","cdc",36.8976373626374
+"1334","twinrix.adult",2006,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","cdc",37.5940659340659
+"1335","twinrix.adult",2007,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","cdc",38.0053571428571
+"1336","twinrix.adult",2008,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","cdc",37.9092307692308
+"1337","twinrix.adult",2009,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",40.0228571428571
+"1338","twinrix.adult",2010,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",42.5054945054945
+"1339","twinrix.adult",2011,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",43.4908791208791
+"1340","twinrix.adult",2012,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",44.2726098901099
+"1341","twinrix.adult",2013,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",47.4427472527473
+"1342","twinrix.adult",2014,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",50.5243131868132
+"1343","twinrix.adult",2015,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",52.5032417582418
+"1344","twinrix.adult",2016,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",54.22
+"1345","twinrix.adult",2017,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",55.2765934065934
+"1346","twinrix.adult",2018,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",56.33
+"1347","twinrix.adult",2019,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",59.3230054945055
+"1348","twinrix.adult",2020,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",61.9465
+"1349","twinrix.adult",2021,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",62.9942417582417
+"1350","twinrix.adult",2022,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",65.9439340659341
+"1351","twinrix.adult",2023,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","cdc",71.9640824175824
+"1352","twinrix.adult",2003,"Hepatitis A-Hepatitis B 18 only¤ •","GlaxoSmithKline","twinrix","private",78.5959602649007
+"1353","twinrix.adult",2004,"Hepatitis A-Hepatitis B 18 only•","GlaxoSmithKline","twinrix","private",78.4471428571429
+"1354","twinrix.adult",2005,"Hepatitis A-Hepatitis B 18 only•","GlaxoSmithKline","twinrix","private",79.3764835164835
+"1355","twinrix.adult",2006,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","private",78.2335714285714
+"1356","twinrix.adult",2007,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","private",78.2621428571429
+"1357","twinrix.adult",2008,"Hepatitis A-Hepatitis B Adult^","GlaxoSmithKline","twinrix","private",80.5792307692308
+"1358","twinrix.adult",2009,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",86.7210439560439
+"1359","twinrix.adult",2010,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",89.85
+"1360","twinrix.adult",2011,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",89.9664835164835
+"1361","twinrix.adult",2012,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",92.4635989010989
+"1362","twinrix.adult",2013,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",92.5
+"1363","twinrix.adult",2014,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",92.5
+"1364","twinrix.adult",2015,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",92.5
+"1365","twinrix.adult",2016,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",92.5
+"1366","twinrix.adult",2017,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",95.2846153846154
+"1367","twinrix.adult",2018,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",100.282967032967
+"1368","twinrix.adult",2019,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",103.258241758242
+"1369","twinrix.adult",2020,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",106.12603021978
+"1370","twinrix.adult",2021,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",112.079002747253
+"1371","twinrix.adult",2022,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",114.583181318681
+"1372","twinrix.adult",2023,"Hepatitis A-Hepatitis B Adult [3]","GlaxoSmithKline","twinrix","private",121.00721978022
+"1373","twinrix.ped",2005,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","cdc",36.91
+"1374","twinrix.ped",2006,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","cdc",38.1338186813187
+"1375","twinrix.ped",2007,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","cdc",38.0053571428571
+"1376","twinrix.ped",2008,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","cdc",37.9092307692308
+"1377","twinrix.ped",2009,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",40.7535714285714
+"1378","twinrix.ped",2010,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",43.717032967033
+"1379","twinrix.ped",2011,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",46.7664835164835
+"1380","twinrix.ped",2012,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",48.8345054945055
+"1381","twinrix.ped",2013,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",50.423956043956
+"1382","twinrix.ped",2014,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",51.8940659340659
+"1383","twinrix.ped",2015,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",53.4041758241758
+"1384","twinrix.ped",2016,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",54.9575
+"1385","twinrix.ped",2017,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",56.5605494505495
+"1386","twinrix.ped",2018,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",58.2195604395604
+"1387","twinrix.ped",2019,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",59.9171978021978
+"1388","twinrix.ped",2020,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",62.5465
+"1389","twinrix.ped",2021,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",64.6768406593407
+"1390","twinrix.ped",2022,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",67.0507417582418
+"1391","twinrix.ped",2023,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","cdc",69.672521978022
+"1392","twinrix.ped",2005,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","private",78.16
+"1393","twinrix.ped",2006,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","private",78.2335714285714
+"1394","twinrix.ped",2007,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","private",78.2621428571429
+"1395","twinrix.ped",2008,"Hepatitis A-Hepatitis B 18 only^","GlaxoSmithKline","twinrix","private",78.3492857142857
+"1396","twinrix.ped",2009,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",80.8317582417582
+"1397","twinrix.ped",2010,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",89.9239010989011
+"1398","twinrix.ped",2011,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",89.9664835164835
+"1399","twinrix.ped",2012,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",92.4635989010989
+"1400","twinrix.ped",2013,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",92.5
+"1401","twinrix.ped",2014,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",92.5
+"1402","twinrix.ped",2015,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",92.5
+"1403","twinrix.ped",2016,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",94.5475
+"1404","twinrix.ped",2017,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",96.6571153846154
+"1405","twinrix.ped",2018,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",100.282967032967
+"1406","twinrix.ped",2019,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",103.258241758242
+"1407","twinrix.ped",2020,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",106.12603021978
+"1408","twinrix.ped",2021,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",112.079002747253
+"1409","twinrix.ped",2022,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",115.691681318681
+"1410","twinrix.ped",2023,"Hepatitis A-Hepatitis B 18 only [3]","GlaxoSmithKline","twinrix","private",121.00721978022
+"1411","vaqta.adult",2001,"Hepatitis A Adult¤","Merck","vaqta","cdc",17.5509293680297
+"1412","vaqta.adult",2002,"Hepatitis A Adult¤","Merck","vaqta","cdc",17.2
+"1413","vaqta.adult",2003,"Hepatitis A Adult¤","Merck","vaqta","cdc",17.6563186813187
+"1414","vaqta.adult",2004,"Hepatitis A Adult","Merck","vaqta","cdc",17.75
+"1415","vaqta.adult",2005,"Hepatitis A Adult","Merck","vaqta","cdc",18.7273351648352
+"1416","vaqta.adult",2006,"Hepatitis A Adult•","Merck","vaqta","cdc",18.5
+"1417","vaqta.adult",2007,"Hepatitis A Adult•","Merck","vaqta","cdc",18.5
+"1418","vaqta.adult",2008,"Hepatitis A Adult•","Merck","vaqta","cdc",18.904532967033
+"1419","vaqta.adult",2009,"Hepatitis A Adult [5]","Merck","vaqta","cdc",19.9759615384615
+"1420","vaqta.adult",2010,"Hepatitis A Adult [5]","Merck","vaqta","cdc",19.75
+"1421","vaqta.adult",2011,"Hepatitis A Adult [5]","Merck","vaqta","cdc",19.75
+"1422","vaqta.adult",2012,"Hepatitis A Adult [5]","Merck","vaqta","cdc",20.7981318681319
+"1423","vaqta.adult",2013,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",24.1868131868132
+"1424","vaqta.adult",2014,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",24.5505494505495
+"1425","vaqta.adult",2015,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",25.73
+"1426","vaqta.adult",2016,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",26.7103571428571
+"1427","vaqta.adult",2017,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",29.4096703296703
+"1428","vaqta.adult",2018,"Hepatitis A-Adult [5]","Merck","vaqta","cdc",29.73
+"1429","vaqta.adult",2019,"Hepatitis A Adult [5]","Merck","vaqta","cdc",30.118793956044
+"1430","vaqta.adult",2020,"Hepatitis A Adult [5]","Merck","vaqta","cdc",31.809
+"1431","vaqta.adult",2021,"Hepatitis A Adult [5]","Merck","vaqta","cdc",34.5693406593407
+"1432","vaqta.adult",2022,"Hepatitis A Adult [5]","Merck","vaqta","cdc",37.2202472527472
+"1433","vaqta.adult",2023,"Hepatitis A Adult [5]","Merck","vaqta","cdc",39.2534203296703
+"1434","vaqta.adult",2001,"Hepatitis A Adult¤","Merck","vaqta","private",51.71
+"1435","vaqta.adult",2002,"Hepatitis A Adult¤","Merck","vaqta","private",51.71
+"1436","vaqta.adult",2003,"Hepatitis A Adult¤","Merck","vaqta","private",40.3807142857143
+"1437","vaqta.adult",2004,"Hepatitis A Adult","Merck","vaqta","private",59.7428571428571
+"1438","vaqta.adult",2005,"Hepatitis A Adult","Merck","vaqta","private",63.4976373626374
+"1439","vaqta.adult",2006,"Hepatitis A Adult•","Merck","vaqta","private",62.513956043956
+"1440","vaqta.adult",2007,"Hepatitis A Adult•","Merck","vaqta","private",62.1271428571429
+"1441","vaqta.adult",2008,"Hepatitis A Adult•","Merck","vaqta","private",60.9473626373626
+"1442","vaqta.adult",2009,"Hepatitis A Adult [5]","Merck","vaqta","private",63.1715384615385
+"1443","vaqta.adult",2010,"Hepatitis A Adult [5]","Merck","vaqta","private",59.99
+"1444","vaqta.adult",2011,"Hepatitis A Adult [5]","Merck","vaqta","private",59.99
+"1445","vaqta.adult",2012,"Hepatitis A Adult [5]","Merck","vaqta","private",55.6742857142857
+"1446","vaqta.adult",2013,"Hepatitis A-Adult [5]","Merck","vaqta","private",61.9221978021978
+"1447","vaqta.adult",2014,"Hepatitis A-Adult [5]","Merck","vaqta","private",64.6144505494506
+"1448","vaqta.adult",2015,"Hepatitis A-Adult [5]","Merck","vaqta","private",65.2638241758242
+"1449","vaqta.adult",2016,"Hepatitis A-Adult [5]","Merck","vaqta","private",66.9174175824176
+"1450","vaqta.adult",2017,"Hepatitis A-Adult [5]","Merck","vaqta","private",66.8951648351648
+"1451","vaqta.adult",2018,"Hepatitis A-Adult [5]","Merck","vaqta","private",67.0115384615385
+"1452","vaqta.adult",2019,"Hepatitis A Adult [5]","Merck","vaqta","private",68.6787637362637
+"1453","vaqta.adult",2020,"Hepatitis A Adult [5]","Merck","vaqta","private",69.58
+"1454","vaqta.adult",2021,"Hepatitis A Adult [5]","Merck","vaqta","private",71.6458489010989
+"1455","vaqta.adult",2022,"Hepatitis A Adult [5]","Merck","vaqta","private",74.745739010989
+"1456","vaqta.adult",2023,"Hepatitis A Adult [5]","Merck","vaqta","private",76.6281263736264
+"1457","vaqta.ped",2001,"Hepatitis A Pediatric¤","Merck","vaqta","cdc",11.15
+"1458","vaqta.ped",2002,"Hepatitis A Pediatric¤","Merck","vaqta","cdc",11.15
+"1459","vaqta.ped",2003,"Hepatitis A Pediatric¤","Merck","vaqta","cdc",11.15
+"1460","vaqta.ped",2004,"Hepatitis A Pediatric","Merck","vaqta","cdc",11.15
+"1461","vaqta.ped",2005,"Hepatitis A Pediatric","Merck","vaqta","cdc",11.8925824175824
+"1462","vaqta.ped",2006,"Hepatitis A Pediatric•","Merck","vaqta","cdc",12.1
+"1463","vaqta.ped",2007,"Hepatitis A Pediatric•","Merck","vaqta","cdc",12.1910714285714
+"1464","vaqta.ped",2008,"Hepatitis A Pediatric•","Merck","vaqta","cdc",12.3846153846154
+"1465","vaqta.ped",2009,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",12.9347527472527
+"1466","vaqta.ped",2010,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",13.3695054945055
+"1467","vaqta.ped",2011,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",14.0666208791209
+"1468","vaqta.ped",2012,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",14.6105769230769
+"1469","vaqta.ped",2013,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",15.217032967033
+"1470","vaqta.ped",2014,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",16.0043406593407
+"1471","vaqta.ped",2015,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",17.0958791208791
+"1472","vaqta.ped",2016,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",18.0225
+"1473","vaqta.ped",2017,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",18.6185714285714
+"1474","vaqta.ped",2018,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",19.1564835164835
+"1475","vaqta.ped",2019,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",19.5685164835165
+"1476","vaqta.ped",2020,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",20.3725
+"1477","vaqta.ped",2021,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",21.2046703296703
+"1478","vaqta.ped",2022,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",22.3334065934066
+"1479","vaqta.ped",2023,"Hepatitis A Pediatric [5]","Merck","vaqta","cdc",23.1368131868132
+"1480","vaqta.ped",2001,"Hepatitis A Pediatric¤","Merck","vaqta","private",25.3957249070632
+"1481","vaqta.ped",2002,"Hepatitis A Pediatric¤","Merck","vaqta","private",25.86
+"1482","vaqta.ped",2003,"Hepatitis A Pediatric¤","Merck","vaqta","private",28.9795604395604
+"1483","vaqta.ped",2004,"Hepatitis A Pediatric","Merck","vaqta","private",29.62
+"1484","vaqta.ped",2005,"Hepatitis A Pediatric","Merck","vaqta","private",30.3576373626374
+"1485","vaqta.ped",2006,"Hepatitis A Pediatric•","Merck","vaqta","private",30.37
+"1486","vaqta.ped",2007,"Hepatitis A Pediatric•","Merck","vaqta","private",30.37
+"1487","vaqta.ped",2008,"Hepatitis A Pediatric•","Merck","vaqta","private",30.37
+"1488","vaqta.ped",2009,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.37
+"1489","vaqta.ped",2010,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.3256593406593
+"1490","vaqta.ped",2011,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.3628406593407
+"1491","vaqta.ped",2012,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.3669368131868
+"1492","vaqta.ped",2013,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.4597802197802
+"1493","vaqta.ped",2014,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.4308956043956
+"1494","vaqta.ped",2015,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.3772527472527
+"1495","vaqta.ped",2016,"Hepatitis A Pediatric [5]","Merck","vaqta","private",30.6170027472527
+"1496","vaqta.ped",2017,"Hepatitis A Pediatric [5]","Merck","vaqta","private",31.4225
+"1497","vaqta.ped",2018,"Hepatitis A Pediatric [5]","Merck","vaqta","private",32.0784615384615
+"1498","vaqta.ped",2019,"Hepatitis A Pediatric [5]","Merck","vaqta","private",32.8710851648352
+"1499","vaqta.ped",2020,"Hepatitis A Pediatric [5]","Merck","vaqta","private",33.295
+"1500","vaqta.ped",2021,"Hepatitis A Pediatric [5]","Merck","vaqta","private",34.4503461538462
+"1501","vaqta.ped",2022,"Hepatitis A Pediatric [5]","Merck","vaqta","private",35.7941785714286
+"1502","vaqta.ped",2023,"Hepatitis A Pediatric [5]","Merck","vaqta","private",36.5941263736264
+"1503","varivax.adult",2009,"Varicella-Adult [5]","Merck","varivax","cdc",55.983
+"1504","varivax.adult",2010,"Varicella-Adult [5]","Merck","varivax","cdc",55.4099148351648
+"1505","varivax.adult",2011,"Varicella-Adult [5]","Merck","varivax","cdc",56.8283571428571
+"1506","varivax.adult",2012,"Varicella-Adult [5]","Merck","varivax","cdc",59.6972967032967
+"1507","varivax.adult",2013,"Varicella-Adult [5]","Merck","varivax","cdc",61.2459835164835
+"1508","varivax.adult",2014,"Varicella-Adult [5]","Merck","varivax","cdc",60.8333763736264
+"1509","varivax.adult",2015,"Varicella-Adult [5]","Merck","varivax","cdc",64.5004395604396
+"1510","varivax.adult",2016,"Varicella-Adult [5]","Merck","varivax","cdc",66.36
+"1511","varivax.adult",2017,"Varicella-Adult [5]","Merck","varivax","cdc",68.1401648351648
+"1512","varivax.adult",2018,"Varicella-Adult [5]","Merck","varivax","cdc",73.7535
+"1513","varivax.adult",2019,"Varicella [5]","Merck","varivax","cdc",81.2415796703297
+"1514","varivax.adult",2020,"Varicella [5]","Merck","varivax","cdc",82.039
+"1515","varivax.adult",2021,"Varicella [5]","Merck","varivax","cdc",88.2459175824176
+"1516","varivax.adult",2022,"Varicella [5]","Merck","varivax","cdc",95.5237225274725
+"1517","varivax.adult",2023,"Varicella [5]","Merck","varivax","cdc",101.533184065934
+"1518","varivax.adult",2009,"Varicella-Adult [5]","Merck","varivax","private",80.58
+"1519","varivax.adult",2010,"Varicella-Adult [5]","Merck","varivax","private",81.3336813186813
+"1520","varivax.adult",2011,"Varicella-Adult [5]","Merck","varivax","private",83.77
+"1521","varivax.adult",2012,"Varicella-Adult [5]","Merck","varivax","private",86.8118269230769
+"1522","varivax.adult",2013,"Varicella-Adult [5]","Merck","varivax","private",91.710510989011
+"1523","varivax.adult",2014,"Varicella-Adult [5]","Merck","varivax","private",94.141
+"1524","varivax.adult",2015,"Varicella-Adult [5]","Merck","varivax","private",101.179708791209
+"1525","varivax.adult",2016,"Varicella-Adult [5]","Merck","varivax","private",110.139230769231
+"1526","varivax.adult",2017,"Varicella-Adult [5]","Merck","varivax","private",117.440384615385
+"1527","varivax.adult",2018,"Varicella-Adult [5]","Merck","varivax","private",122.58
+"1528","varivax.adult",2019,"Varicella [5]","Merck","varivax","private",131.435782967033
+"1529","varivax.adult",2020,"Varicella [5]","Merck","varivax","private",135.725
+"1530","varivax.adult",2021,"Varicella [5]","Merck","varivax","private",141.586063186813
+"1531","varivax.adult",2022,"Varicella [5]","Merck","varivax","private",152.596695054945
+"1532","varivax.adult",2023,"Varicella [5]","Merck","varivax","private",159.927126373626
+"1533","varivax.ped",2001,"Varicella• ¤","Merck","varivax","cdc",39.14
+"1534","varivax.ped",2002,"Varicella•¤","Merck","varivax","cdc",40.7575824175824
+"1535","varivax.ped",2003,"Varicella•¤","Merck","varivax","cdc",42.0637362637363
+"1536","varivax.ped",2004,"Varicella•","Merck","varivax","cdc",44.08
+"1537","varivax.ped",2005,"Varicella•","Merck","varivax","cdc",48.040467032967
+"1538","varivax.ped",2006,"Varicella•","Merck","varivax","cdc",55.5842032967033
+"1539","varivax.ped",2007,"Varicella•","Merck","varivax","cdc",58.2660714285714
+"1540","varivax.ped",2008,"Varicella•","Merck","varivax","cdc",59.7826923076923
+"1541","varivax.ped",2009,"Varicella [5]","Merck","varivax","cdc",63.7392032967033
+"1542","varivax.ped",2010,"Varicella [5]","Merck","varivax","cdc",66.415217032967
+"1543","varivax.ped",2011,"Varicella [5]","Merck","varivax","cdc",69.0853269230769
+"1544","varivax.ped",2012,"Varicella [5]","Merck","varivax","cdc",71.7328571428571
+"1545","varivax.ped",2013,"Varicella [5]","Merck","varivax","cdc",74.6503846153846
+"1546","varivax.ped",2014,"Varicella [5]","Merck","varivax","cdc",77.6031868131868
+"1547","varivax.ped",2015,"Varicella [5]","Merck","varivax","cdc",82.4274175824176
+"1548","varivax.ped",2016,"Varicella [5]","Merck","varivax","cdc",87.1975
+"1549","varivax.ped",2017,"Varicella [5]","Merck","varivax","cdc",91.612967032967
+"1550","varivax.ped",2018,"Varicella [5]","Merck","varivax","cdc",96.8751648351648
+"1551","varivax.ped",2019,"Varicella [5]","Merck","varivax","cdc",102.643571428571
+"1552","varivax.ped",2020,"Varicella [5]","Merck","varivax","cdc",107.9675
+"1553","varivax.ped",2021,"Varicella [5]","Merck","varivax","cdc",114.160384615385
+"1554","varivax.ped",2022,"Varicella [5]","Merck","varivax","cdc",120.963956043956
+"1555","varivax.ped",2023,"Varicella [5]","Merck","varivax","cdc",130.009285714286
+"1556","varivax.ped",2001,"Varicella• ¤","Merck","varivax","private",46.7278810408922
+"1557","varivax.ped",2002,"Varicella•¤","Merck","varivax","private",49.13
+"1558","varivax.ped",2003,"Varicella•¤","Merck","varivax","private",56.5804395604396
+"1559","varivax.ped",2004,"Varicella•","Merck","varivax","private",58.11
+"1560","varivax.ped",2005,"Varicella•","Merck","varivax","private",62.8026648351648
+"1561","varivax.ped",2006,"Varicella•","Merck","varivax","private",68.581978021978
+"1562","varivax.ped",2007,"Varicella•","Merck","varivax","private",73.2046428571429
+"1563","varivax.ped",2008,"Varicella•","Merck","varivax","private",75.3542307692308
+"1564","varivax.ped",2009,"Varicella [5]","Merck","varivax","private",80.2848076923077
+"1565","varivax.ped",2010,"Varicella [5]","Merck","varivax","private",81.3336813186813
+"1566","varivax.ped",2011,"Varicella [5]","Merck","varivax","private",83.77
+"1567","varivax.ped",2012,"Varicella [5]","Merck","varivax","private",86.8118269230769
+"1568","varivax.ped",2013,"Varicella [5]","Merck","varivax","private",91.710510989011
+"1569","varivax.ped",2014,"Varicella [5]","Merck","varivax","private",94.141
+"1570","varivax.ped",2015,"Varicella [5]","Merck","varivax","private",101.179010989011
+"1571","varivax.ped",2016,"Varicella [5]","Merck","varivax","private",110.139230769231
+"1572","varivax.ped",2017,"Varicella [5]","Merck","varivax","private",117.440384615385
+"1573","varivax.ped",2018,"Varicella [5]","Merck","varivax","private",122.58
+"1574","varivax.ped",2019,"Varicella [5]","Merck","varivax","private",131.435782967033
+"1575","varivax.ped",2020,"Varicella [5]","Merck","varivax","private",135.725
+"1576","varivax.ped",2021,"Varicella [5]","Merck","varivax","private",141.71381043956
+"1577","varivax.ped",2022,"Varicella [5]","Merck","varivax","private",152.596695054945
+"1578","varivax.ped",2023,"Varicella [5]","Merck","varivax","private",159.927126373626
+"1579","vaxelis.ped",2021,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","cdc",91.59
+"1580","vaxelis.ped",2022,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","cdc",94.2095604395604
+"1581","vaxelis.ped",2023,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","cdc",97.1174725274725
+"1582","vaxelis.ped",2021,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","private",132.767
+"1583","vaxelis.ped",2022,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","private",138.740667582418
+"1584","vaxelis.ped",2023,"DTaP-IPV-HIB-HEPB [6]","Merck","vaxelis","private",146.011604395604
+"1585","vaxneuvance.adult",2022,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","cdc",149.9
+"1586","vaxneuvance.adult",2023,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","cdc",151.026656593407
+"1587","vaxneuvance.adult",2022,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","private",216.086
+"1588","vaxneuvance.adult",2023,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","private",215.70893956044
+"1589","vaxneuvance.ped",2022,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","cdc",162.27
+"1590","vaxneuvance.ped",2023,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","cdc",162.27
+"1591","vaxneuvance.ped",2022,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","private",216.086
+"1592","vaxneuvance.ped",2023,"Pneumococcal
+15-valent [5]","Merck","vaxneuvance","private",215.70893956044
