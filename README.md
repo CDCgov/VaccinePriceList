@@ -44,7 +44,7 @@ The results are presented in a table comparing first reported cost per dose to c
 
 ## Future needs of this project
 
-- This prject can be revisited periodically to update or build on the price time series data. 
+- This project can be revisited periodically to update or build on the price time series data. 
 
 ## Contributing Econ Team Members
 
