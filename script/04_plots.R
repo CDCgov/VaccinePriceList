@@ -394,3 +394,38 @@ d %>%
     ))
 
 ggsave(paste0('Figures/',index_use,'_highres_elongated_Fig2.tiff'), e1, device = "tiff", height = 15, width = 10, units = "in")
+
+# NCIRD Seminar Figures ----
+seminar <- 
+price %>%
+  mutate(input.low.2023 = NA,
+         input.high.2023 = NA,
+         source = "PCV13 Private Sector List Price") %>%
+  select(name.age, year, value, input.low.2023, input.high.2023, source) %>%
+  rbind(model %>%
+          select(name.age, year, value, input.low.2023, input.high.2023) %>%
+          mutate(source = "PCV13 Model Input")) %>% 
+  filter(name.age == "prevnar13.ped") %>%
+  mutate(name.age = case_when(
+    name.age == "prevnar13.ped" ~ "Pediatric PCV13", #add TM 
+    name.age =="shingrix.adult" ~ "Adult RZV<sup>&reg;</sup>")) %>% #add (R)
+  #Add PCV20
+  bind_rows(
+  bind_cols(name.age = c("Pediatric PCV20&trade;"), year = c(2023), value= c(253.21),  source = "PCV20 Private Sector List Price")) %>%
+  ggplot( aes(x= year, y = value, ymin=input.low.2023, ymax=input.high.2023, color = source)) +
+  geom_point(aes(pch = source), size = 4, position = position_dodge2(0.25)) +
+  geom_line() +
+  geom_errorbar(width = 0.5, position = position_dodge2(0.25)) +
+  scale_color_manual(values = c("black", "black", "blue")) +
+  labs(  y = ytitle,
+         x = xtitle) +
+  get_theme(txt = 16) +
+  theme(strip.text = element_markdown()) +
+  theme(legend.position = c(0.72,0.25),
+        legend.background = element_rect(color="black",size = 0.1),
+        legend.title = element_blank())+
+  scale_y_continuous(limits = c(125,270)) +
+  scale_x_continuous(limits = c(2009,2025)) 
+
+ggsave(paste0('Figures/',index_use,'_highres_NCIRD_Seminar_B.tiff'), seminar, device = "tiff", height = 10, width = 10, units = "in")
+
